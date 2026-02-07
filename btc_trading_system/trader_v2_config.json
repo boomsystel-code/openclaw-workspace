@@ -1,0 +1,6 @@
+{
+  "check_interval": 300,
+  "min_confidence": 0.55,
+  "max_daily_trades": 5,
+  "trailing_stop": true
+}

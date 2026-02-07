@@ -1,0 +1,16 @@
+{
+  "symbol": "BTCUSDT",
+  "current_price": 69343.74,
+  "high_24h": 71751.33,
+  "low_24h": 66265.36,
+  "volume_24h": 4744795164.600232,
+  "price_change_24h": 3045.3,
+  "price_change_percent_24h": 4.593,
+  "weighted_avg_price": 69152.92909786,
+  "source": "binance",
+  "timestamp": "2026-02-07T20:40:22.034199",
+  "price_range": 5485.970000000001,
+  "price_range_percent": 7.911269279678311,
+  "support_level": 65876.553,
+  "resistance_level": 72810.92700000001
+}

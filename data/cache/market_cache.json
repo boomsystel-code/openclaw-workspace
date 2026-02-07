@@ -1,0 +1,14 @@
+{
+  "current_price": 69463.4,
+  "high_24h": null,
+  "low_24h": null,
+  "volume_24h": null,
+  "price_change": null,
+  "price_change_percent": null,
+  "rsi": 32.63886471857988,
+  "volatility": 54.05635394146263,
+  "ma7": 72528.51428571428,
+  "ma25": 84989.44880000001,
+  "timestamp": "2026-02-08T03:01:21.338748",
+  "ohlcv_count": 30
+}

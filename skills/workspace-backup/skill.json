@@ -1,0 +1,7 @@
+{
+  "name": "Workspace Backup",
+  "version": "1.0.0",
+  "description": "Complete backup of OpenClaw workspace - memory, knowledge base, BTC strategies",
+  "author": "boomsystel-code",
+  "tags": ["backup", "data", "workspace", "memory"]
+}

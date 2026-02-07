@@ -1,0 +1,13 @@
+# Knowledge100 190
+
+## AI
+
+- Deep Learning
+- NLP
+- CV
+- Gen AI
+- RL
+
+---
+
+**100MB 190**

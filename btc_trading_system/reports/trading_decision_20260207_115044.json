@@ -1,0 +1,258 @@
+{
+  "timestamp": "20260207_115044",
+  "decision": {
+    "timestamp": "2026-02-07T11:50:44.963523",
+    "action": "HOLD",
+    "confidence": 5.029999999999999,
+    "score": 49.84375,
+    "market_analysis": {
+      "price": null,
+      "trend": null,
+      "volatility": null
+    },
+    "master_wisdom": {
+      "buffett_score": 80.17,
+      "munger_score": 55.25,
+      "lynch_score": 60.75,
+      "kiyosaki_score": 58.5
+    },
+    "ai_prediction": {
+      "direction": "DOWN",
+      "probability": 0.1006,
+      "features": {
+        "buffett_contribution": 0.5,
+        "munger_contribution": 0.5,
+        "lynch_contribution": 0.5,
+        "kiyosaki_contribution": 0.5
+      }
+    },
+    "report_summary": "报告生成失败，使用默认摘要",
+    "detailed_report": "详细报告"
+  },
+  "agent_results": {
+    "btc_data": {
+      "agent_name": "btc_data",
+      "status": "completed",
+      "data": {
+        "market_data": {
+          "symbol": "BTCUSDT",
+          "current_price": 70730.88,
+          "high_24h": 71751.33,
+          "low_24h": 63770.17,
+          "volume_24h": 4662042890.145499,
+          "price_change_24h": 6432.26,
+          "price_change_percent_24h": 10.004,
+          "weighted_avg_price": 67932.18119304,
+          "source": "binance",
+          "timestamp": "2026-02-07T11:50:44.886777",
+          "price_range": 7981.1600000000035,
+          "price_range_percent": 11.283840947546535,
+          "support_level": 67194.336,
+          "resistance_level": 74267.42400000001
+        },
+        "technical_indicators": {
+          "rsi": 63.28,
+          "macd": -1422.2,
+          "macd_signal": -1422.2,
+          "macd_histogram": 0.0,
+          "sma_7": 61133.93,
+          "sma_25": 61108.89,
+          "sma_99": 68506.83,
+          "bb_upper": 65656.92,
+          "bb_middle": 60060.64,
+          "bb_lower": 54464.36,
+          "atr": 981.85,
+          "volatility": 38.84,
+          "volume_change": 0.0
+        },
+        "market_signal": {
+          "trend": "UPTREND",
+          "rsi": {
+            "value": 63.28,
+            "signal": "NEUTRAL"
+          },
+          "macd": {
+            "value": 0.0,
+            "signal": "NEUTRAL"
+          },
+          "technical_score": 65,
+          "volatility": 38.84,
+          "volatility_level": "MODERATE"
+        }
+      },
+      "error": null,
+      "execution_time": 0.40915608406066895,
+      "timestamp": "2026-02-07T11:50:44.890249"
+    },
+    "btc_wisdom": {
+      "agent_name": "btc_wisdom",
+      "status": "completed",
+      "data": {
+        "buffett_value_score": 80.17,
+        "buffett_details": {
+          "total_score": 80.17,
+          "components": {
+            "value_score": 78.35,
+            "margin_score": 100,
+            "quality_score": 50,
+            "holding_score": 85
+          },
+          "verdict": "绝佳买入机会！安全边际极高",
+          "signal": "BUY"
+        },
+        "munger_psychology_score": 55.25,
+        "munger_details": {
+          "total_score": 55.25,
+          "components": {
+            "psychology_score": 40,
+            "contrarian_score": 90,
+            "patience_score": 55,
+            "avoidance_score": 50
+          },
+          "verdict": "保持理性，观望",
+          "signal": "WAIT"
+        },
+        "lynch_growth_score": 60.75,
+        "lynch_details": {
+          "total_score": 60.75,
+          "components": {
+            "momentum_score": 70,
+            "peg_score": 55,
+            "acceleration_score": 35,
+            "simplicity_score": 85
+          },
+          "verdict": "稳健增长，适度配置",
+          "signal": "BUY"
+        },
+        "kiyosaki_risk_score": 58.5,
+        "kiyosaki_details": {
+          "total_score": 58.5,
+          "components": {
+            "cashflow_score": 40,
+            "allocation_score": 60,
+            "risk_score": 70,
+            "leverage_score": 70
+          },
+          "verdict": "风险中等，谨慎操作",
+          "signal": "MODERATE"
+        },
+        "master_wisdom_score": 64.64,
+        "wisdom_signals": {
+          "individual_signals": {
+            "buffett": "BUY",
+            "munger": "WAIT",
+            "lynch": "BUY",
+            "kiyosaki": "MODERATE"
+          },
+          "final_signal": "BUY",
+          "consensus": "2BUY/0SELL/2WAIT"
+        },
+        "master_quotes": {
+          "buffett": "\"价格是你支付的，价值是你得到的\"",
+          "munger": "\"反过来想，总是反过来想\"",
+          "lynch": "\"投资你了解的东西\"",
+          "kiyosaki": "\"让钱为你工作\""
+        }
+      },
+      "error": null,
+      "execution_time": 0.00017690658569335938,
+      "timestamp": "2026-02-07T11:50:44.963493"
+    },
+    "btc_ai": {
+      "agent_name": "btc_ai",
+      "status": "completed",
+      "data": {
+        "direction": "DOWN",
+        "probability": 0.1006,
+        "confidence": 0.55,
+        "price_change": -3.9944,
+        "features": {
+          "rsi": 0.6328,
+          "macd": 0.0,
+          "macd_signal": -1.4222000000000001,
+          "volatility": 0.3884,
+          "atr": 0.09818500000000001,
+          "bb_position": 0.49999999999955325,
+          "price_vs_sma7": -0.2639112191871192,
+          "price_vs_sma25": -0.26360959919252336,
+          "price_vs_sma99": -0.3431311885252901,
+          "sma7_vs_sma25": 0.0004097603474715524,
+          "sma25_vs_sma99": -0.10798835678136037,
+          "cci": 0.0,
+          "cci_normalized": 0.5,
+          "obv": 0.0,
+          "volume_ratio": 1.0,
+          "buffett_value_score": 0.5,
+          "munger_psychology_score": 0.5,
+          "lynch_growth_score": 0.5,
+          "kiyosaki_risk_score": 0.5,
+          "master_wisdom_score": 0.5,
+          "hour_sin": 0.258819045102521,
+          "hour_cos": -0.9659258262890682,
+          "dayofweek_sin": -0.9749279121818236,
+          "dayofweek_cos": -0.2225209339563146,
+          "month_sin": 0.8660254037844386,
+          "month_cos": 0.5000000000000001,
+          "trend_bull": 0.0,
+          "trend_bear": 0.0,
+          "trend_sideways": 1.0,
+          "rsi_oversold": 0.0,
+          "rsi_overbought": 0.0,
+          "rsi_neutral": 0.0,
+          "momentum": 0.0
+        },
+        "master_features": {
+          "buffett_contribution": 0.5,
+          "munger_contribution": 0.5,
+          "lynch_contribution": 0.5,
+          "kiyosaki_contribution": 0.5
+        },
+        "composite_score": 36.02,
+        "model_predictions": {
+          "ridge": 0.0081,
+          "rf": 0.6723,
+          "gb": 0.6871,
+          "mlp": 0.9305,
+          "ada": 0.5471
+        },
+        "training_info": {
+          "status": "使用现有模型",
+          "models_loaded": [
+            "ridge",
+            "rf",
+            "gb",
+            "mlp",
+            "ada"
+          ],
+          "best_model": "ridge",
+          "best_accuracy": 80.44280442804428,
+          "features_count": 114,
+          "training_samples": 1531
+        }
+      },
+      "error": null,
+      "execution_time": 0.07225608825683594,
+      "timestamp": "2026-02-07T11:50:44.963498"
+    },
+    "btc_report": {
+      "agent_name": "btc_report",
+      "status": "completed",
+      "data": {
+        "summary": "报告生成失败，使用默认摘要",
+        "full_report": "详细报告",
+        "recommendation": {
+          "action": "HOLD",
+          "description": "数据不足，观望为主",
+          "position_size": "10-20%"
+        },
+        "risk_warning": [
+          "✅ 波动率正常"
+        ],
+        "next_review": "2026-02-07 08:00:00"
+      },
+      "error": null,
+      "execution_time": 0,
+      "timestamp": "2026-02-07T11:50:44.963500"
+    }
+  }
+}

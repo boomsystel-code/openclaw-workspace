@@ -1,0 +1,3181 @@
+{
+  "version": 1,
+  "skills": {
+    "channel": {
+      "version": "1.0.1",
+      "installedAt": 1770224350445
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1770421898115
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1770421938151
+    },
+    "proactive-agent-1-2-4": {
+      "version": "1.0.0",
+      "installedAt": 1770421996933
+    },
+    "moltguard": {
+      "version": "3.0.4",
+      "installedAt": 1770422920435
+    },
+    "agent-browser-stagehand": {
+      "version": "1.0.0",
+      "installedAt": 1770422925780
+    },
+    "dreaming": {
+      "version": "1.0.1",
+      "installedAt": 1770422935236
+    },
+    "project-orchestrator": {
+      "version": "0.1.0",
+      "installedAt": 1770422945676
+    },
+    "woocommerce": {
+      "version": "1.0.1",
+      "installedAt": 1770423140481
+    },
+    "tezos": {
+      "version": "1.0.1",
+      "installedAt": 1770423141984
+    },
+    "aaveclaw": {
+      "version": "1.0.0",
+      "installedAt": 1770423144348
+    },
+    "desktop-control": {
+      "version": "1.0.0",
+      "installedAt": 1770423146221
+    },
+    "agent-council": {
+      "version": "1.0.0",
+      "installedAt": 1770423148028
+    },
+    "gmail-client": {
+      "version": "1.0.1",
+      "installedAt": 1770423154783
+    },
+    "comfyui": {
+      "version": "1.0.1",
+      "installedAt": 1770423156425
+    },
+    "zerodust-chain-exit": {
+      "version": "1.0.0",
+      "installedAt": 1770423157957
+    },
+    "ai-entrepreneur-guide": {
+      "version": "1.0.0",
+      "installedAt": 1770423159984
+    },
+    "openclaw-warden": {
+      "version": "1.0.2",
+      "installedAt": 1770423190140
+    },
+    "nostr-social": {
+      "version": "1.1.2",
+      "installedAt": 1770423191915
+    },
+    "personal-genomics": {
+      "version": "1.1.1",
+      "installedAt": 1770423194259
+    },
+    "seo-autopilot": {
+      "version": "1.0.0",
+      "installedAt": 1770423195690
+    },
+    "moltcrew": {
+      "version": "1.0.1",
+      "installedAt": 1770423210813
+    },
+    "lclawtopia": {
+      "version": "1.0.0",
+      "installedAt": 1770423212819
+    },
+    "the-flip": {
+      "version": "1.0.8",
+      "installedAt": 1770423214987
+    },
+    "x402-payment-demo": {
+      "version": "0.0.1",
+      "installedAt": 1770423216419
+    },
+    "api-gateway": {
+      "version": "1.0.11",
+      "installedAt": 1770423237339
+    },
+    "data-validation": {
+      "version": "1.0.0",
+      "installedAt": 1770423288726
+    },
+    "test-patterns": {
+      "version": "1.0.0",
+      "installedAt": 1770423290303
+    },
+    "quantum-lab": {
+      "version": "0.1.0",
+      "installedAt": 1770423292003
+    },
+    "senior-data-scientist": {
+      "version": "1.0.0",
+      "installedAt": 1770423294262
+    },
+    "notnative": {
+      "version": "1.0.0",
+      "installedAt": 1770423296100
+    },
+    "system-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1770423327943
+    },
+    "safe-exec": {
+      "version": "0.3.2",
+      "installedAt": 1770423331803
+    },
+    "error-guard": {
+      "version": "1.0.0",
+      "installedAt": 1770423333846
+    },
+    "memory-pipeline-0-1-0": {
+      "version": "1.0.0",
+      "installedAt": 1770423335917
+    },
+    "clawdbot-filesystem": {
+      "version": "1.0.2",
+      "installedAt": 1770423337995
+    },
+    "bot-status-api": {
+      "version": "1.0.1",
+      "installedAt": 1770423340546
+    },
+    "self-evolving-skill": {
+      "version": "1.0.2",
+      "installedAt": 1770423343857
+    },
+    "command-center": {
+      "version": "1.0.0",
+      "installedAt": 1770423351997
+    },
+    "clawdstrike-test": {
+      "version": "1.0.0",
+      "installedAt": 1770423356990
+    },
+    "peer-reviewer": {
+      "version": "1.0.0",
+      "installedAt": 1770423362275
+    },
+    "nas-master": {
+      "version": "1.0.0",
+      "installedAt": 1770423364405
+    },
+    "pi-admin": {
+      "version": "1.0.0",
+      "installedAt": 1770423368594
+    },
+    "table-image-generator": {
+      "version": "1.3.0",
+      "installedAt": 1770423417488
+    },
+    "notion-cli": {
+      "version": "0.0.1",
+      "installedAt": 1770423418980
+    },
+    "outlook-email": {
+      "version": "0.1.0",
+      "installedAt": 1770423420571
+    },
+    "perplexity-search-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770423422364
+    },
+    "nanopdf": {
+      "version": "1.0.0",
+      "installedAt": 1770423423915
+    },
+    "youtube37puq": {
+      "version": "1.0.0",
+      "installedAt": 1770423425179
+    },
+    "tardis": {
+      "version": "1.1.0",
+      "installedAt": 1770423427229
+    },
+    "qmd-1-0-0": {
+      "version": "1.0.0",
+      "installedAt": 1770423428807
+    },
+    "ai-quota-check": {
+      "version": "1.0.0",
+      "installedAt": 1770423431404
+    },
+    "cursor-agent": {
+      "version": "2.1.0",
+      "installedAt": 1770423443568
+    },
+    "mia-polymarket-trader": {
+      "version": "1.0.0",
+      "installedAt": 1770423499535
+    },
+    "remarkable-tablet": {
+      "version": "1.0.0",
+      "installedAt": 1770423501271
+    },
+    "oban-designer": {
+      "version": "1.0.1",
+      "installedAt": 1770423502952
+    },
+    "qlik-cloud-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770423504539
+    },
+    "agentic-ai-gold": {
+      "version": "4.0.0",
+      "installedAt": 1770423506270
+    },
+    "ai-picture-book": {
+      "version": "1.0.1",
+      "installedAt": 1770423507733
+    },
+    "lista-sms": {
+      "version": "1.0.0",
+      "installedAt": 1770423510010
+    },
+    "doppel-social-outreach": {
+      "version": "1.0.0",
+      "installedAt": 1770423511450
+    },
+    "elicitation": {
+      "version": "1.0.4",
+      "installedAt": 1770423513298
+    },
+    "postgres": {
+      "version": "1.1.0",
+      "installedAt": 1770423529105
+    },
+    "redis": {
+      "version": "1.1.0",
+      "installedAt": 1770423532979
+    },
+    "supabase": {
+      "version": "1.0.0",
+      "installedAt": 1770423548315
+    },
+    "airtable": {
+      "version": "1.0.4",
+      "installedAt": 1770423549953
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1770423551308
+    },
+    "linear": {
+      "version": "1.0.0",
+      "installedAt": 1770423552819
+    },
+    "slack": {
+      "version": "1.0.0",
+      "installedAt": 1770423554352
+    },
+    "discord": {
+      "version": "1.0.1",
+      "installedAt": 1770423555801
+    },
+    "telegram": {
+      "version": "1.0.1",
+      "installedAt": 1770423557269
+    },
+    "twitter": {
+      "version": "1.1.0",
+      "installedAt": 1770423558809
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1770423569474
+    },
+    "jira": {
+      "version": "1.0.0",
+      "installedAt": 1770423573195
+    },
+    "asana": {
+      "version": "1.0.0",
+      "installedAt": 1770423575099
+    },
+    "trello": {
+      "version": "1.0.0",
+      "installedAt": 1770423576633
+    },
+    "clickup": {
+      "version": "1.2.0",
+      "installedAt": 1770423578337
+    },
+    "monday": {
+      "version": "1.0.1",
+      "installedAt": 1770423579606
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1770423581636
+    },
+    "logseq": {
+      "version": "1.0.0",
+      "installedAt": 1770423584371
+    },
+    "cloudflare": {
+      "version": "1.0.0",
+      "installedAt": 1770423599017
+    },
+    "vercel": {
+      "version": "1.0.1",
+      "installedAt": 1770423600485
+    },
+    "netlify": {
+      "version": "1.0.0",
+      "installedAt": 1770423602465
+    },
+    "kubernetes": {
+      "version": "1.0.0",
+      "installedAt": 1770423615390
+    },
+    "jq": {
+      "version": "1.2.0",
+      "installedAt": 1770423637197
+    },
+    "imagemagick": {
+      "version": "1.0.0",
+      "installedAt": 1770423641561
+    },
+    "azure-cli": {
+      "version": "1.0.0",
+      "installedAt": 1770423724742
+    },
+    "gcloud": {
+      "version": "1.0.1",
+      "installedAt": 1770423726184
+    },
+    "kubectl": {
+      "version": "1.0.0",
+      "installedAt": 1770423728236
+    },
+    "claude": {
+      "version": "1.1.0",
+      "installedAt": 1770423760383
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1770423761686
+    },
+    "homebrew": {
+      "version": "1.0.1",
+      "installedAt": 1770423792503
+    },
+    "raycast": {
+      "version": "1.0.0",
+      "installedAt": 1770423826736
+    },
+    "google-drive": {
+      "version": "1.0.3",
+      "installedAt": 1770423840672
+    },
+    "dropbox": {
+      "version": "1.0.0",
+      "installedAt": 1770423842412
+    },
+    "messenger": {
+      "version": "1.0.1",
+      "installedAt": 1770423856530
+    },
+    "email": {
+      "version": "1.1.0",
+      "installedAt": 1770423860149
+    },
+    "calendar": {
+      "version": "1.0.0",
+      "installedAt": 1770423861660
+    },
+    "notion-sync": {
+      "version": "1.0.2",
+      "installedAt": 1770423875011
+    },
+    "obsidian-sync": {
+      "version": "1.0.0",
+      "installedAt": 1770423876375
+    },
+    "readwise": {
+      "version": "1.0.0",
+      "installedAt": 1770423877936
+    },
+    "instapaper": {
+      "version": "0.2.9",
+      "installedAt": 1770423880740
+    },
+    "video-frames": {
+      "version": "1.0.0",
+      "installedAt": 1770423965687
+    },
+    "songsee": {
+      "version": "1.0.0",
+      "installedAt": 1770423969134
+    },
+    "gifgrep": {
+      "version": "1.0.1",
+      "installedAt": 1770423973425
+    },
+    "imsg": {
+      "version": "1.0.0",
+      "installedAt": 1770423987995
+    },
+    "wacli": {
+      "version": "1.0.0",
+      "installedAt": 1770423989404
+    },
+    "eightctl": {
+      "version": "1.0.0",
+      "installedAt": 1770423990744
+    },
+    "sonoscli": {
+      "version": "1.0.0",
+      "installedAt": 1770423992378
+    },
+    "blucli": {
+      "version": "1.0.0",
+      "installedAt": 1770423994068
+    },
+    "openhue": {
+      "version": "1.0.0",
+      "installedAt": 1770423995286
+    },
+    "arxiv": {
+      "version": "1.0.4",
+      "installedAt": 1770424004514
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1770424018095
+    },
+    "crypto": {
+      "version": "1.0.1",
+      "installedAt": 1770424021717
+    },
+    "defi": {
+      "version": "1.1.1",
+      "installedAt": 1770424025214
+    },
+    "blogwatcher": {
+      "version": "1.0.0",
+      "installedAt": 1770424038240
+    },
+    "youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1770424042606
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1770424043967
+    },
+    "whisper": {
+      "version": "1.0.0",
+      "installedAt": 1770424046591
+    },
+    "speech-to-text": {
+      "version": "0.1.0",
+      "installedAt": 1770424047793
+    },
+    "text-to-speech": {
+      "version": "0.1.0",
+      "installedAt": 1770424049277
+    },
+    "search": {
+      "version": "1.0.0",
+      "installedAt": 1770424063999
+    },
+    "knowledge-base": {
+      "version": "1.0.0",
+      "installedAt": 1770424068077
+    },
+    "testing": {
+      "version": "1.0.0",
+      "installedAt": 1770424084168
+    },
+    "timer": {
+      "version": "1.0.0",
+      "installedAt": 1770424108543
+    },
+    "llm": {
+      "version": "1.1.0",
+      "installedAt": 1770424128415
+    },
+    "homekit": {
+      "version": "1.0.0",
+      "installedAt": 1770424162272
+    },
+    "google-home": {
+      "version": "1.0.0",
+      "installedAt": 1770424164871
+    },
+    "security-audit": {
+      "version": "1.0.0",
+      "installedAt": 1770424192624
+    },
+    "finance": {
+      "version": "1.1.2",
+      "installedAt": 1770424252743
+    },
+    "crypto-wallet": {
+      "version": "1.0.1",
+      "installedAt": 1770424254326
+    },
+    "media-converter": {
+      "version": "1.0.0",
+      "installedAt": 1770424341105
+    },
+    "clawdbot-logs1kzm": {
+      "version": "1.0.0",
+      "installedAt": 1770424411725
+    },
+    "clawstin": {
+      "version": "1.1.0",
+      "installedAt": 1770424413196
+    },
+    "llm-supervisor": {
+      "version": "0.3.0",
+      "installedAt": 1770424415664
+    },
+    "accessibility-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1770424417135
+    },
+    "agentic-paper-digest-skill": {
+      "version": "0.3.2",
+      "installedAt": 1770424418925
+    },
+    "google-play": {
+      "version": "1.0.1",
+      "installedAt": 1770424420414
+    },
+    "google-slides": {
+      "version": "1.0.1",
+      "installedAt": 1770424421888
+    },
+    "klaviyo": {
+      "version": "1.0.1",
+      "installedAt": 1770424423570
+    },
+    "mailchimp": {
+      "version": "1.0.1",
+      "installedAt": 1770424424974
+    },
+    "chitin": {
+      "version": "1.0.1",
+      "installedAt": 1770424426539
+    },
+    "arc-security": {
+      "version": "1.0.1",
+      "installedAt": 1770424428624
+    },
+    "agent-team-kit": {
+      "version": "1.0.0",
+      "installedAt": 1770424430562
+    },
+    "clawddocs-1-2-2": {
+      "version": "1.0.0",
+      "installedAt": 1770424433166
+    },
+    "stripe": {
+      "version": "1.1.0",
+      "installedAt": 1770424444853
+    },
+    "paypal": {
+      "version": "1.1.0",
+      "installedAt": 1770424446095
+    },
+    "shopify": {
+      "version": "1.0.1",
+      "installedAt": 1770424448719
+    },
+    "google-sheets": {
+      "version": "1.0.4",
+      "installedAt": 1770424475558
+    },
+    "google-docs": {
+      "version": "1.0.3",
+      "installedAt": 1770424477145
+    },
+    "google-forms": {
+      "version": "1.0.3",
+      "installedAt": 1770424478620
+    },
+    "google-analytics": {
+      "version": "1.0.8",
+      "installedAt": 1770424480105
+    },
+    "google-ads": {
+      "version": "1.0.3",
+      "installedAt": 1770424481807
+    },
+    "google-calendar": {
+      "version": "0.1.0",
+      "installedAt": 1770424486413
+    },
+    "feishu-doc": {
+      "version": "1.2.3",
+      "installedAt": 1770424913364
+    },
+    "feishu-bitable": {
+      "version": "1.0.0",
+      "installedAt": 1770424917146
+    },
+    "feishu-calendar": {
+      "version": "1.0.0",
+      "installedAt": 1770424927632
+    },
+    "spotify": {
+      "version": "1.0.0",
+      "installedAt": 1770424967098
+    },
+    "apple-music": {
+      "version": "1.2.0",
+      "installedAt": 1770424969093
+    },
+    "lastfm": {
+      "version": "1.0.2",
+      "installedAt": 1770424976280
+    },
+    "google-maps": {
+      "version": "3.1.1",
+      "installedAt": 1770425017514
+    },
+    "news-feed": {
+      "version": "1.0.0",
+      "installedAt": 1770425042962
+    },
+    "workout": {
+      "version": "1.1.0",
+      "installedAt": 1770425068694
+    },
+    "dating": {
+      "version": "1.3.1",
+      "installedAt": 1770425107685
+    },
+    "marketing": {
+      "version": "1.0.0",
+      "installedAt": 1770425130418
+    },
+    "ai-code-review": {
+      "version": "1.0.1",
+      "installedAt": 1770425485031
+    },
+    "knowledge-graph": {
+      "version": "1.0.0",
+      "installedAt": 1770425510838
+    },
+    "personal-finance": {
+      "version": "1.0.0",
+      "installedAt": 1770425595624
+    },
+    "language-learning": {
+      "version": "1.0.0",
+      "installedAt": 1770425614946
+    },
+    "copywriting": {
+      "version": "0.1.0",
+      "installedAt": 1770425637881
+    },
+    "pdf-tools": {
+      "version": "0.1.0",
+      "installedAt": 1770425678142
+    },
+    "sales": {
+      "version": "1.0.0",
+      "installedAt": 1770425744003
+    },
+    "shell-scripting": {
+      "version": "1.0.0",
+      "installedAt": 1770425844645
+    },
+    "mcp": {
+      "version": "1.0.0",
+      "installedAt": 1770426017153
+    },
+    "agent-orchestration": {
+      "version": "1.0.0",
+      "installedAt": 1770426062163
+    },
+    "cicd-pipeline": {
+      "version": "1.0.0",
+      "installedAt": 1770426230788
+    },
+    "network-scanner": {
+      "version": "1.1.0",
+      "installedAt": 1770426374556
+    },
+    "python": {
+      "version": "1.0.0",
+      "installedAt": 1770426759823
+    },
+    "gpt": {
+      "version": "1.1.0",
+      "installedAt": 1770427053348
+    },
+    "elevenlabs": {
+      "version": "1.1.0",
+      "installedAt": 1770427060293
+    },
+    "perplexity": {
+      "version": "1.0.0",
+      "installedAt": 1770427104818
+    },
+    "figma": {
+      "version": "2.1.0",
+      "installedAt": 1770427165486
+    },
+    "feishu-message": {
+      "version": "1.0.0",
+      "installedAt": 1770430573483
+    },
+    "n8n": {
+      "version": "1.0.2",
+      "installedAt": 1770430607773
+    },
+    "browser-automation": {
+      "version": "1.0.1",
+      "installedAt": 1770430636697
+    },
+    "deepgram": {
+      "version": "1.0.1",
+      "installedAt": 1770430737514
+    },
+    "code-explainer": {
+      "version": "1.0.0",
+      "installedAt": 1770430780728
+    },
+    "code-reviewer": {
+      "version": "1.0.1",
+      "installedAt": 1770430786691
+    },
+    "notebook": {
+      "version": "1.0.2",
+      "installedAt": 1770430896027
+    },
+    "prompt-master": {
+      "version": "1.0.0",
+      "installedAt": 1770430941546
+    },
+    "prompt-optimizer": {
+      "version": "1.0.0",
+      "installedAt": 1770430946500
+    },
+    "priceforagent": {
+      "version": "1.0.0",
+      "installedAt": 1770431379057
+    },
+    "billclaw": {
+      "version": "0.1.1",
+      "installedAt": 1770431380517
+    },
+    "creditclaw": {
+      "version": "1.0.1",
+      "installedAt": 1770431381842
+    },
+    "openclaw-self-healing": {
+      "version": "2.0.1",
+      "installedAt": 1770431384477
+    },
+    "parallel-task-executor": {
+      "version": "1.0.0",
+      "installedAt": 1770431386128
+    },
+    "soroban": {
+      "version": "1.0.1",
+      "installedAt": 1770431388334
+    },
+    "autonomous-brain": {
+      "version": "1.0.0",
+      "installedAt": 1770431389607
+    },
+    "tunneling": {
+      "version": "1.0.0",
+      "installedAt": 1770431391099
+    },
+    "agent-identity": {
+      "version": "1.0.0",
+      "installedAt": 1770431392985
+    },
+    "stripe-api": {
+      "version": "1.0.2",
+      "installedAt": 1770431409215
+    },
+    "salesforce-api": {
+      "version": "1.0.2",
+      "installedAt": 1770431446956
+    },
+    "hubspot-api": {
+      "version": "1.0.2",
+      "installedAt": 1770431451511
+    },
+    "pipedrive-api": {
+      "version": "1.0.1",
+      "installedAt": 1770431454106
+    },
+    "slack-api": {
+      "version": "1.0.4",
+      "installedAt": 1770431459712
+    },
+    "youtube-api": {
+      "version": "1.3.2",
+      "installedAt": 1770431468584
+    },
+    "google-search": {
+      "version": "1.0.0",
+      "installedAt": 1770431591453
+    },
+    "bing-search": {
+      "version": "1.0.0",
+      "installedAt": 1770431592868
+    },
+    "duckduckgo-search": {
+      "version": "1.0.0",
+      "installedAt": 1770431595570
+    },
+    "baidu-search": {
+      "version": "1.0.1",
+      "installedAt": 1770431598040
+    },
+    "npm-search": {
+      "version": "1.0.0",
+      "installedAt": 1770431632404
+    },
+    "financial-data": {
+      "version": "1.0.0",
+      "installedAt": 1770431685486
+    },
+    "pomodoro": {
+      "version": "0.1.0",
+      "installedAt": 1770431751912
+    },
+    "binance-pro": {
+      "version": "1.0.0",
+      "installedAt": 1770434178153
+    },
+    "crypto-price": {
+      "version": "0.2.2",
+      "installedAt": 1770434180068
+    },
+    "hyperliquid-trading": {
+      "version": "1.0.0",
+      "installedAt": 1770434181793
+    },
+    "moonpay": {
+      "version": "1.1.0",
+      "installedAt": 1770434188956
+    },
+    "agent-ui": {
+      "version": "0.1.1",
+      "installedAt": 1770434197095
+    },
+    "agent-orchestrator": {
+      "version": "0.1.0",
+      "installedAt": 1770434198538
+    },
+    "todo": {
+      "version": "1.1.0",
+      "installedAt": 1770434206249
+    },
+    "todoist-rs": {
+      "version": "1.0.1",
+      "installedAt": 1770434207747
+    },
+    "toughcoding": {
+      "version": "1.0.2",
+      "installedAt": 1770434218144
+    },
+    "ai-explain": {
+      "version": "1.0.1",
+      "installedAt": 1770434219927
+    },
+    "data-analyst": {
+      "version": "1.0.0",
+      "installedAt": 1770434228208
+    },
+    "us-stock-analysis": {
+      "version": "0.1.1",
+      "installedAt": 1770434229653
+    },
+    "image-cog": {
+      "version": "1.0.1",
+      "installedAt": 1770434291160
+    },
+    "video-agent": {
+      "version": "1.0.1",
+      "installedAt": 1770434293411
+    },
+    "ai-voice-cloning": {
+      "version": "0.1.0",
+      "installedAt": 1770434302262
+    },
+    "audio-cog": {
+      "version": "1.0.2",
+      "installedAt": 1770434303690
+    },
+    "sag": {
+      "version": "1.0.0",
+      "installedAt": 1770434305212
+    },
+    "study-habits": {
+      "version": "1.0.0",
+      "installedAt": 1770434312996
+    },
+    "self-improving-agent-1-0-0": {
+      "version": "1.0.0",
+      "installedAt": 1770434314680
+    },
+    "focus-deep-work": {
+      "version": "1.0.0",
+      "installedAt": 1770434340760
+    },
+    "music-cog": {
+      "version": "1.0.0",
+      "installedAt": 1770434350965
+    },
+    "ai-music-generation": {
+      "version": "0.1.0",
+      "installedAt": 1770434352534
+    },
+    "cloud-memory": {
+      "version": "1.0.0",
+      "installedAt": 1770434354027
+    },
+    "file-deduplicator": {
+      "version": "1.0.0",
+      "installedAt": 1770434356141
+    },
+    "copywriter": {
+      "version": "1.1.0",
+      "installedAt": 1770434369948
+    },
+    "x-articles": {
+      "version": "1.1.2",
+      "installedAt": 1770434371740
+    },
+    "yahoo-finance-who": {
+      "version": "1.0.0",
+      "installedAt": 1770434373309
+    },
+    "api-dev": {
+      "version": "1.0.0",
+      "installedAt": 1770434380886
+    },
+    "mockapi": {
+      "version": "0.1.0",
+      "installedAt": 1770434382458
+    },
+    "curl-http": {
+      "version": "1.0.0",
+      "installedAt": 1770434383922
+    },
+    "database": {
+      "version": "1.1.0",
+      "installedAt": 1770434407330
+    },
+    "sql-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1770434408985
+    },
+    "ai-sql": {
+      "version": "1.0.2",
+      "installedAt": 1770434410726
+    },
+    "project-router": {
+      "version": "1.0.0",
+      "installedAt": 1770434419311
+    },
+    "pre-mortem-analyst": {
+      "version": "1.0.0",
+      "installedAt": 1770434421360
+    },
+    "project-manager": {
+      "version": "1.0.0",
+      "installedAt": 1770434422841
+    },
+    "security-sentinel": {
+      "version": "1.1.2",
+      "installedAt": 1770434595695
+    },
+    "security-auditor": {
+      "version": "1.0.0",
+      "installedAt": 1770434597348
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1770434598691
+    },
+    "ai-automation-workflows": {
+      "version": "0.1.1",
+      "installedAt": 1770434600169
+    },
+    "discord-chat": {
+      "version": "1.0.0",
+      "installedAt": 1770434609644
+    },
+    "deepresearchwork": {
+      "version": "1.0.0",
+      "installedAt": 1770434620455
+    },
+    "parallel-ai-research": {
+      "version": "1.0.0",
+      "installedAt": 1770434622046
+    },
+    "ping-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1770434623541
+    },
+    "screen-monitor": {
+      "version": "1.0.1",
+      "installedAt": 1770434625404
+    },
+    "ai-assistant-skills": {
+      "version": "1.0.4",
+      "installedAt": 1770434634019
+    },
+    "stagehand-browser-cli": {
+      "version": "1.0.0",
+      "installedAt": 1770434642765
+    },
+    "browsh": {
+      "version": "1.0.0",
+      "installedAt": 1770434644210
+    },
+    "file-organizer": {
+      "version": "1.0.0",
+      "installedAt": 1770434645981
+    },
+    "cicd-pipeline-generator": {
+      "version": "0.1.0",
+      "installedAt": 1770434662399
+    },
+    "senior-devops": {
+      "version": "1.0.0",
+      "installedAt": 1770434664558
+    },
+    "sysadmin-toolbox": {
+      "version": "1.1.0",
+      "installedAt": 1770434666739
+    },
+    "apple-notes": {
+      "version": "1.0.0",
+      "installedAt": 1770434681070
+    },
+    "nb": {
+      "version": "1.0.2",
+      "installedAt": 1770434682676
+    },
+    "bear-notes": {
+      "version": "1.0.0",
+      "installedAt": 1770434684202
+    },
+    "rss-ai-reader": {
+      "version": "1.0.0",
+      "installedAt": 1770434700624
+    },
+    "ai-diff-summary": {
+      "version": "1.0.1",
+      "installedAt": 1770434711075
+    },
+    "gembox-skill": {
+      "version": "0.9.0",
+      "installedAt": 1770434712469
+    },
+    "clipboard": {
+      "version": "1.0.0",
+      "installedAt": 1770434736485
+    },
+    "peekaboo": {
+      "version": "1.0.0",
+      "installedAt": 1770434737822
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1770434739592
+    },
+    "adaptive-suite": {
+      "version": "1.0.0",
+      "installedAt": 1770437727849
+    },
+    "llm-models": {
+      "version": "0.1.0",
+      "installedAt": 1770437729528
+    },
+    "claw-shell": {
+      "version": "1.0.0",
+      "installedAt": 1770437737292
+    },
+    "codebuddy-cli": {
+      "version": "1.0.0",
+      "installedAt": 1770437738928
+    },
+    "japanese-tutor": {
+      "version": "1.0.2",
+      "installedAt": 1770437747559
+    },
+    "timesheet": {
+      "version": "1.0.1",
+      "installedAt": 1770437760020
+    },
+    "gopass": {
+      "version": "1.0.0",
+      "installedAt": 1770437762032
+    },
+    "1password": {
+      "version": "1.0.1",
+      "installedAt": 1770437763804
+    },
+    "exchange-rates": {
+      "version": "1.0.0",
+      "installedAt": 1770437771850
+    },
+    "stock-market-pro": {
+      "version": "1.1.0",
+      "installedAt": 1770437773481
+    },
+    "gold-trading-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770437775107
+    },
+    "fal-text-to-image": {
+      "version": "0.1.0",
+      "installedAt": 1770437784290
+    },
+    "image-upscaling": {
+      "version": "0.1.0",
+      "installedAt": 1770437785806
+    },
+    "gemini-image-simple": {
+      "version": "1.1.0",
+      "installedAt": 1770437787298
+    },
+    "game-cog": {
+      "version": "1.0.1",
+      "installedAt": 1770437794924
+    },
+    "chessmaster": {
+      "version": "1.0.0",
+      "installedAt": 1770437796338
+    },
+    "google-weather": {
+      "version": "1.1.0",
+      "installedAt": 1770437808672
+    },
+    "news-summary": {
+      "version": "1.0.1",
+      "installedAt": 1770437810248
+    },
+    "institutional-flow-tracker": {
+      "version": "0.1.0",
+      "installedAt": 1770437824196
+    },
+    "ai-proposal-generator": {
+      "version": "1.0.0",
+      "installedAt": 1770437826669
+    },
+    "deep-scraper": {
+      "version": "1.0.1",
+      "installedAt": 1770437967718
+    },
+    "firecrawl-skills": {
+      "version": "1.0.0",
+      "installedAt": 1770437969469
+    },
+    "firecrawl-search": {
+      "version": "1.0.0",
+      "installedAt": 1770437970913
+    },
+    "firecrawler": {
+      "version": "1.0.0",
+      "installedAt": 1770437972678
+    },
+    "reddit-scraper": {
+      "version": "1.0.0",
+      "installedAt": 1770437974368
+    },
+    "browserless-agent": {
+      "version": "0.1.0",
+      "installedAt": 1770437976794
+    },
+    "rag-search": {
+      "version": "0.1.1",
+      "installedAt": 1770438032324
+    },
+    "local-rag-search": {
+      "version": "0.1.0",
+      "installedAt": 1770438033846
+    },
+    "lightrag": {
+      "version": "1.0.1",
+      "installedAt": 1770438035309
+    },
+    "senior-ml-engineer": {
+      "version": "1.0.0",
+      "installedAt": 1770438037384
+    },
+    "vercel-deploy": {
+      "version": "1.0.0",
+      "installedAt": 1770438039501
+    },
+    "webchat-audio-notifications": {
+      "version": "1.2.0",
+      "installedAt": 1770438050474
+    },
+    "audio-reply-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770438051937
+    },
+    "sound-fx": {
+      "version": "0.1.1",
+      "installedAt": 1770438053474
+    },
+    "airfoil": {
+      "version": "1.0.1",
+      "installedAt": 1770438055142
+    },
+    "docs-cog": {
+      "version": "1.0.1",
+      "installedAt": 1770438070433
+    },
+    "paperless-docs": {
+      "version": "1.0.0",
+      "installedAt": 1770438072560
+    },
+    "paperless-ngx-tools": {
+      "version": "1.0.2",
+      "installedAt": 1770438074611
+    },
+    "docx": {
+      "version": "0.1.0",
+      "installedAt": 1770438077237
+    },
+    "upstage-document-parse": {
+      "version": "1.0.2",
+      "installedAt": 1770438078673
+    },
+    "shopify-admin-api": {
+      "version": "1.0.0",
+      "installedAt": 1770438116479
+    },
+    "instagram-marketing": {
+      "version": "1.0.0",
+      "installedAt": 1770438117924
+    },
+    "agentic-commerce": {
+      "version": "1.0.1",
+      "installedAt": 1770438120216
+    },
+    "seo-article-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770438142588
+    },
+    "mia-content-creator": {
+      "version": "1.0.0",
+      "installedAt": 1770438144214
+    },
+    "content-draft-generator": {
+      "version": "1.0.1",
+      "installedAt": 1770438145987
+    },
+    "antigravity-image-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770438147473
+    },
+    "deepread-ocr": {
+      "version": "1.0.1",
+      "installedAt": 1770438168778
+    },
+    "csv-pipeline": {
+      "version": "1.0.0",
+      "installedAt": 1770438170250
+    },
+    "jq-json-processor": {
+      "version": "1.0.0",
+      "installedAt": 1770438176552
+    },
+    "senior-data-engineer": {
+      "version": "1.0.0",
+      "installedAt": 1770438179136
+    },
+    "etherlink": {
+      "version": "1.0.1",
+      "installedAt": 1770438188341
+    },
+    "ethereum-wingman": {
+      "version": "0.1.0",
+      "installedAt": 1770438190797
+    },
+    "clawcast": {
+      "version": "1.0.2",
+      "installedAt": 1770438193144
+    },
+    "clawcast-wallet": {
+      "version": "1.0.0",
+      "installedAt": 1770438195500
+    },
+    "warren-deploy": {
+      "version": "1.0.2",
+      "installedAt": 1770438197233
+    },
+    "security-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1770438246126
+    },
+    "mrc-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1770438247639
+    },
+    "topic-monitor": {
+      "version": "1.2.1",
+      "installedAt": 1770438250142
+    },
+    "uptime-kuma": {
+      "version": "1.0.0",
+      "installedAt": 1770438251726
+    },
+    "uptime-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1770438253350
+    },
+    "botpress-adk": {
+      "version": "1.0.1",
+      "installedAt": 1770438269220
+    },
+    "virtually-us": {
+      "version": "1.0.0",
+      "installedAt": 1770438270635
+    },
+    "telegram-bot": {
+      "version": "1.0.0",
+      "installedAt": 1770438272192
+    },
+    "tools-ui": {
+      "version": "0.1.0",
+      "installedAt": 1770438273754
+    },
+    "nodetool": {
+      "version": "0.6.3",
+      "installedAt": 1770438275169
+    },
+    "macbook-optimizer": {
+      "version": "1.0.1",
+      "installedAt": 1770438276649
+    },
+    "book-it-support": {
+      "version": "1.0.1",
+      "installedAt": 1770438316450
+    },
+    "interview-coach": {
+      "version": "1.0.0",
+      "installedAt": 1770438322458
+    },
+    "muse": {
+      "version": "1.3.0",
+      "installedAt": 1770438338454
+    },
+    "product-strategist": {
+      "version": "1.0.0",
+      "installedAt": 1770438340426
+    },
+    "cto-advisor": {
+      "version": "1.0.0",
+      "installedAt": 1770438342456
+    },
+    "hire": {
+      "version": "1.0.1",
+      "installedAt": 1770438344302
+    },
+    "promptify": {
+      "version": "3.1.0",
+      "installedAt": 1770438366918
+    },
+    "prompt-craft": {
+      "version": "1.0.1",
+      "installedAt": 1770438368780
+    },
+    "tldr": {
+      "version": "1.0.1",
+      "installedAt": 1770438370866
+    },
+    "check-network": {
+      "version": "1.0.0",
+      "installedAt": 1770438390897
+    },
+    "dex-multichain-aggregator-teneo": {
+      "version": "1.0.3",
+      "installedAt": 1770438397361
+    },
+    "superdesign": {
+      "version": "1.0.0",
+      "installedAt": 1770438413658
+    },
+    "architecture-designer": {
+      "version": "0.1.0",
+      "installedAt": 1770438415172
+    },
+    "ui-ux-pro-max": {
+      "version": "0.1.0",
+      "installedAt": 1770438420549
+    },
+    "canvas-design": {
+      "version": "0.1.0",
+      "installedAt": 1770438434214
+    },
+    "ffmpeg-video-editor": {
+      "version": "1.0.0",
+      "installedAt": 1770438435742
+    },
+    "video-cog": {
+      "version": "1.0.2",
+      "installedAt": 1770438437336
+    },
+    "remotion": {
+      "version": "1.0.1",
+      "installedAt": 1770438440492
+    },
+    "android-adb": {
+      "version": "1.0.0",
+      "installedAt": 1770438479108
+    },
+    "smart-auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1770438486520
+    },
+    "agent-autonomy-kit": {
+      "version": "1.0.0",
+      "installedAt": 1770438488125
+    },
+    "x-post-automation": {
+      "version": "1.0.0",
+      "installedAt": 1770438489640
+    },
+    "atl-mobile": {
+      "version": "0.1.0",
+      "installedAt": 1770438491195
+    },
+    "activecampaign": {
+      "version": "1.0.0",
+      "installedAt": 1770438521168
+    },
+    "babyconnect": {
+      "version": "1.0.0",
+      "installedAt": 1770438522833
+    },
+    "salesforce-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770438597527
+    },
+    "zoho-crm": {
+      "version": "1.0.0",
+      "installedAt": 1770438598787
+    },
+    "salesforce-dx": {
+      "version": "1.0.0",
+      "installedAt": 1770438606540
+    },
+    "dex-crm": {
+      "version": "1.0.0",
+      "installedAt": 1770438608131
+    },
+    "affiliate-master": {
+      "version": "1.0.0",
+      "installedAt": 1770438609883
+    },
+    "marketing-mode": {
+      "version": "1.0.0",
+      "installedAt": 1770438611350
+    },
+    "social-card-gen": {
+      "version": "1.0.2",
+      "installedAt": 1770438635680
+    },
+    "efnet-social": {
+      "version": "1.0.0",
+      "installedAt": 1770438637421
+    },
+    "metricool": {
+      "version": "1.0.0",
+      "installedAt": 1770438639178
+    },
+    "accli": {
+      "version": "1.0.0",
+      "installedAt": 1770438647441
+    },
+    "lark-calendar": {
+      "version": "1.0.0",
+      "installedAt": 1770438650359
+    },
+    "gog-calendar": {
+      "version": "1.0.0",
+      "installedAt": 1770438653327
+    },
+    "calcurse": {
+      "version": "1.0.0",
+      "installedAt": 1770438655330
+    },
+    "gcalcli-calendar": {
+      "version": "2.1.0",
+      "installedAt": 1770438656817
+    },
+    "flowmind": {
+      "version": "1.0.2",
+      "installedAt": 1770438687560
+    },
+    "skill-email-management": {
+      "version": "1.0.0",
+      "installedAt": 1770438689951
+    },
+    "email-daily-summary": {
+      "version": "0.1.0",
+      "installedAt": 1770438707045
+    },
+    "apple-mail": {
+      "version": "1.2.0",
+      "installedAt": 1770438709698
+    },
+    "mailgun": {
+      "version": "1.0.2",
+      "installedAt": 1770438711603
+    },
+    "sendclaw": {
+      "version": "1.0.10",
+      "installedAt": 1770438715133
+    },
+    "actual-budget": {
+      "version": "1.0.1",
+      "installedAt": 1770438740082
+    },
+    "agentledger": {
+      "version": "1.1.1",
+      "installedAt": 1770438742332
+    },
+    "quickbooks": {
+      "version": "1.0.2",
+      "installedAt": 1770438745234
+    },
+    "finance-tracker": {
+      "version": "2.0.0",
+      "installedAt": 1770438749050
+    },
+    "yahoo-finance-cli": {
+      "version": "1.0.0",
+      "installedAt": 1770438751035
+    },
+    "agent-directory": {
+      "version": "1.2.0",
+      "installedAt": 1770438788966
+    },
+    "globepilot-ai-agent": {
+      "version": "0.1.0",
+      "installedAt": 1770438791287
+    },
+    "autonomous-agent": {
+      "version": "1.1.0",
+      "installedAt": 1770438796461
+    },
+    "agora": {
+      "version": "1.1.0",
+      "installedAt": 1770438798025
+    },
+    "agent-earner": {
+      "version": "1.0.0",
+      "installedAt": 1770438801469
+    },
+    "openclaw-self-backup": {
+      "version": "1.0.1",
+      "installedAt": 1770438828642
+    },
+    "simple-backup": {
+      "version": "2.2.0",
+      "installedAt": 1770438830322
+    },
+    "media-backup": {
+      "version": "1.0.0",
+      "installedAt": 1770438832067
+    },
+    "git-crypt-backup": {
+      "version": "1.0.0",
+      "installedAt": 1770438834889
+    },
+    "claw-sync": {
+      "version": "2.0.2",
+      "installedAt": 1770438838166
+    },
+    "db-query": {
+      "version": "1.0.0",
+      "installedAt": 1770438885785
+    },
+    "ai-sql-check": {
+      "version": "1.0.1",
+      "installedAt": 1770438888287
+    },
+    "sql-pro": {
+      "version": "0.1.0",
+      "installedAt": 1770438890718
+    },
+    "database-operations": {
+      "version": "1.0.0",
+      "installedAt": 1770438892527
+    },
+    "sql-writer": {
+      "version": "1.0.0",
+      "installedAt": 1770438894405
+    },
+    "test-new-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770438929685
+    },
+    "test-simple-abc": {
+      "version": "1.0.0",
+      "installedAt": 1770438932009
+    },
+    "test-minimal-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770438933905
+    },
+    "test-runner": {
+      "version": "1.0.0",
+      "installedAt": 1770438935469
+    },
+    "pr-reviewer": {
+      "version": "1.0.0",
+      "installedAt": 1770438953835
+    },
+    "ai-comment": {
+      "version": "1.0.1",
+      "installedAt": 1770438956216
+    },
+    "ai-codemod": {
+      "version": "1.0.1",
+      "installedAt": 1770438958056
+    },
+    "container-debug": {
+      "version": "1.0.0",
+      "installedAt": 1770438967666
+    },
+    "docker-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1770438969772
+    },
+    "docker-ctl": {
+      "version": "1.0.0",
+      "installedAt": 1770438971472
+    },
+    "ai-dockerfile": {
+      "version": "1.0.1",
+      "installedAt": 1770438973126
+    },
+    "docker-diag": {
+      "version": "1.0.0",
+      "installedAt": 1770438975125
+    },
+    "k8-multicluster": {
+      "version": "1.0.0",
+      "installedAt": 1770439026019
+    },
+    "k8s-browser": {
+      "version": "1.0.0",
+      "installedAt": 1770439028041
+    },
+    "k8s-certs": {
+      "version": "1.0.0",
+      "installedAt": 1770439029876
+    },
+    "k8-autoscaling": {
+      "version": "1.0.0",
+      "installedAt": 1770439031811
+    },
+    "k8s-backup": {
+      "version": "1.0.0",
+      "installedAt": 1770439033639
+    },
+    "git-summary": {
+      "version": "1.0.0",
+      "installedAt": 1770439069270
+    },
+    "git-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1770439071192
+    },
+    "git-workflows": {
+      "version": "1.0.0",
+      "installedAt": 1770439072968
+    },
+    "git-helper": {
+      "version": "1.0.0",
+      "installedAt": 1770439074814
+    },
+    "gitai-skill": {
+      "version": "1.0.2",
+      "installedAt": 1770439077309
+    },
+    "xapito": {
+      "version": "0.0.1",
+      "installedAt": 1770439094078
+    },
+    "yapi": {
+      "version": "1.0.0",
+      "installedAt": 1770439095904
+    },
+    "aegis-security": {
+      "version": "1.0.0",
+      "installedAt": 1770439097716
+    },
+    "azure-proxy": {
+      "version": "1.0.0",
+      "installedAt": 1770439100353
+    },
+    "registry-broker-skills": {
+      "version": "0.1.0",
+      "installedAt": 1770439103215
+    },
+    "aws-infra": {
+      "version": "1.0.0",
+      "installedAt": 1770439139961
+    },
+    "infra-as-code": {
+      "version": "1.0.0",
+      "installedAt": 1770439141741
+    },
+    "ai-cloudflare": {
+      "version": "1.0.1",
+      "installedAt": 1770439143297
+    },
+    "tencentcloud-cvm-skill": {
+      "version": "1.0.2",
+      "installedAt": 1770439147184
+    },
+    "terraform-engineer": {
+      "version": "0.1.0",
+      "installedAt": 1770439150154
+    },
+    "mlx-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1770467828162
+    },
+    "mlx-stt": {
+      "version": "1.0.6",
+      "installedAt": 1770467830041
+    },
+    "mlx-audio-server": {
+      "version": "0.2.1",
+      "installedAt": 1770467832098
+    },
+    "parakeet-mlx": {
+      "version": "1.0.0",
+      "installedAt": 1770467833628
+    },
+    "relay-to-agent": {
+      "version": "1.0.0",
+      "installedAt": 1770467835468
+    },
+    "robonet-workbench": {
+      "version": "0.1.0",
+      "installedAt": 1770467852670
+    },
+    "openindex": {
+      "version": "1.0.10",
+      "installedAt": 1770467854187
+    },
+    "intellectia-stock-forecast": {
+      "version": "1.0.2",
+      "installedAt": 1770467855566
+    },
+    "yahoo-finance-forex": {
+      "version": "1.0.0",
+      "installedAt": 1770467857382
+    },
+    "donson-intelligent-editing": {
+      "version": "1.0.0",
+      "installedAt": 1770467865461
+    },
+    "avatar-video-messages": {
+      "version": "0.1.2",
+      "installedAt": 1770467867090
+    },
+    "ai-video-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770467868810
+    },
+    "media-player": {
+      "version": "1.0.0",
+      "installedAt": 1770467870420
+    },
+    "elevenlabs-transcribe": {
+      "version": "1.0.1",
+      "installedAt": 1770467872215
+    },
+    "google-imagen-3-portrait-photography": {
+      "version": "1.0.0",
+      "installedAt": 1770467889979
+    },
+    "ai-product-photography": {
+      "version": "0.1.0",
+      "installedAt": 1770467891665
+    },
+    "google-imagen-3-hyperrealistic-landscape": {
+      "version": "1.0.0",
+      "installedAt": 1770467893223
+    },
+    "qwen-image": {
+      "version": "1.0.0",
+      "installedAt": 1770467894978
+    },
+    "quality-documentation-manager": {
+      "version": "1.0.0",
+      "installedAt": 1770467904841
+    },
+    "codebase-documenter": {
+      "version": "0.1.0",
+      "installedAt": 1770467907296
+    },
+    "apple-docs": {
+      "version": "1.0.0",
+      "installedAt": 1770467908798
+    },
+    "style-guide-generator": {
+      "version": "1.0.0",
+      "installedAt": 1770467910444
+    },
+    "business-development": {
+      "version": "1.0.0",
+      "installedAt": 1770467919103
+    },
+    "business-model-canvas": {
+      "version": "0.1.0",
+      "installedAt": 1770467920771
+    },
+    "odoo-manager": {
+      "version": "0.0.1",
+      "installedAt": 1770467922392
+    },
+    "bookkeeping-basics": {
+      "version": "0.1.0",
+      "installedAt": 1770467926026
+    },
+    "analytics-tracking": {
+      "version": "1.0.0",
+      "installedAt": 1770467938551
+    },
+    "check-analytics": {
+      "version": "0.1.0",
+      "installedAt": 1770467940234
+    },
+    "add-analytics": {
+      "version": "0.1.0",
+      "installedAt": 1770467941717
+    },
+    "ga4-analytics": {
+      "version": "1.0.0",
+      "installedAt": 1770467944316
+    },
+    "zero-trust": {
+      "version": "1.0.0",
+      "installedAt": 1770467953391
+    },
+    "clawgatesecure": {
+      "version": "3.1.0",
+      "installedAt": 1770467955082
+    },
+    "openclaw-sec": {
+      "version": "0.2.3",
+      "installedAt": 1770467960896
+    },
+    "senior-secops": {
+      "version": "1.0.0",
+      "installedAt": 1770467963006
+    },
+    "qveris": {
+      "version": "0.1.0",
+      "installedAt": 1770468002825
+    },
+    "guicountrol": {
+      "version": "1.0.0",
+      "installedAt": 1770468004753
+    },
+    "mcporter": {
+      "version": "1.0.0",
+      "installedAt": 1770468005962
+    },
+    "research-engine": {
+      "version": "1.0.0",
+      "installedAt": 1770468020711
+    },
+    "academic-deep-research": {
+      "version": "1.0.0",
+      "installedAt": 1770468022348
+    },
+    "research-tracker": {
+      "version": "0.1.0",
+      "installedAt": 1770468023919
+    },
+    "deep-research-pro": {
+      "version": "1.0.2",
+      "installedAt": 1770468025675
+    },
+    "research-cog": {
+      "version": "1.0.2",
+      "installedAt": 1770468027196
+    },
+    "communication-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770468044354
+    },
+    "relationship-skills": {
+      "version": "1.0.0",
+      "installedAt": 1770468045927
+    },
+    "moltcomm": {
+      "version": "1.0.0",
+      "installedAt": 1770468047939
+    },
+    "agent-doppelganger": {
+      "version": "1.0.0",
+      "installedAt": 1770468049770
+    },
+    "activecampaign-automation": {
+      "version": "0.1.1",
+      "installedAt": 1770468064236
+    },
+    "omnifocus-automation": {
+      "version": "1.0.0",
+      "installedAt": 1770468065835
+    },
+    "airtable-automation": {
+      "version": "0.1.0",
+      "installedAt": 1770468067423
+    },
+    "learn-cog": {
+      "version": "1.0.1",
+      "installedAt": 1770468084467
+    },
+    "self-improving-agent": {
+      "version": "1.0.5",
+      "installedAt": 1770468086563
+    },
+    "basal-ganglia-memory": {
+      "version": "0.1.1",
+      "installedAt": 1770468087932
+    },
+    "homeassistant-assist": {
+      "version": "1.0.1",
+      "installedAt": 1770468107848
+    },
+    "homeassistant": {
+      "version": "1.0.0",
+      "installedAt": 1770468109460
+    },
+    "openclaw-setup": {
+      "version": "1.0.0",
+      "installedAt": 1770468111271
+    },
+    "homeassistant-n8n-agent": {
+      "version": "1.0.3",
+      "installedAt": 1770468113097
+    },
+    "zhipu-mcp-tools": {
+      "version": "1.0.1",
+      "installedAt": 1770468288042
+    },
+    "cli-developer": {
+      "version": "0.1.0",
+      "installedAt": 1770468290169
+    },
+    "clawops": {
+      "version": "1.0.0",
+      "installedAt": 1770468291796
+    },
+    "ezbookkeeping": {
+      "version": "1.0.0",
+      "installedAt": 1770468293296
+    },
+    "create-plugin": {
+      "version": "0.1.0",
+      "installedAt": 1770468303519
+    },
+    "obsidian-plugin-dev": {
+      "version": "1.0.0",
+      "installedAt": 1770468305497
+    },
+    "better-auth": {
+      "version": "0.1.0",
+      "installedAt": 1770468308176
+    },
+    "wordpress-pro": {
+      "version": "0.1.0",
+      "installedAt": 1770468310307
+    },
+    "ai-music-prompts": {
+      "version": "1.0.2",
+      "installedAt": 1770468321805
+    },
+    "elevenlabs-music": {
+      "version": "1.0.1",
+      "installedAt": 1770468323428
+    },
+    "my-play-music-from-yt": {
+      "version": "0.0.3",
+      "installedAt": 1770468325078
+    },
+    "clawtunes": {
+      "version": "0.3.0",
+      "installedAt": 1770468326695
+    },
+    "spotify-history": {
+      "version": "1.1.0",
+      "installedAt": 1770468328562
+    },
+    "demo-video": {
+      "version": "1.0.0",
+      "installedAt": 1770468376406
+    },
+    "flyworks-avatar-video": {
+      "version": "1.0.0",
+      "installedAt": 1770468379318
+    },
+    "video-subtitles": {
+      "version": "1.0.0",
+      "installedAt": 1770468381687
+    },
+    "veo": {
+      "version": "1.0.1",
+      "installedAt": 1770468383655
+    },
+    "sora-video-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770468385858
+    },
+    "agent-development": {
+      "version": "0.1.0",
+      "installedAt": 1770468418707
+    },
+    "agents-manager": {
+      "version": "1.0.2",
+      "installedAt": 1770468421947
+    },
+    "agentarxiv": {
+      "version": "1.0.5",
+      "installedAt": 1770468423822
+    },
+    "xmtp-agent": {
+      "version": "1.0.0",
+      "installedAt": 1770468428822
+    },
+    "zeruai": {
+      "version": "1.0.2",
+      "installedAt": 1770468431615
+    },
+    "agent-social": {
+      "version": "2.4.0",
+      "installedAt": 1770468433904
+    },
+    "crypto-simulator": {
+      "version": "1.0.0",
+      "installedAt": 1770468459792
+    },
+    "soroban-trader-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770468461508
+    },
+    "polymarket-odds": {
+      "version": "1.0.0",
+      "installedAt": 1770468463318
+    },
+    "claudius": {
+      "version": "1.0.4",
+      "installedAt": 1770468465339
+    },
+    "apex-trading": {
+      "version": "1.0.0",
+      "installedAt": 1770468468079
+    },
+    "memdata": {
+      "version": "1.8.0",
+      "installedAt": 1770468501665
+    },
+    "tushare": {
+      "version": "1.0.1",
+      "installedAt": 1770468503480
+    },
+    "ai-mock-data": {
+      "version": "1.0.1",
+      "installedAt": 1770468505221
+    },
+    "ai-schema": {
+      "version": "1.0.1",
+      "installedAt": 1770468507064
+    },
+    "droyd": {
+      "version": "1.0.3",
+      "installedAt": 1770468509672
+    },
+    "agent-selfie": {
+      "version": "1.2.0",
+      "installedAt": 1770468540434
+    },
+    "nano-banana-pro-openrouter": {
+      "version": "1.0.1",
+      "installedAt": 1770468542145
+    },
+    "typefully": {
+      "version": "1.0.1",
+      "installedAt": 1770468550641
+    },
+    "clawgang": {
+      "version": "1.0.1",
+      "installedAt": 1770468552411
+    },
+    "openclaw-social-scheduler": {
+      "version": "0.1.0",
+      "installedAt": 1770468555547
+    },
+    "mixpost": {
+      "version": "1.0.0",
+      "installedAt": 1770468557064
+    },
+    "react-email-skills": {
+      "version": "1.0.0",
+      "installedAt": 1770468566615
+    },
+    "sendclaw-email": {
+      "version": "1.0.1",
+      "installedAt": 1770468568154
+    },
+    "imap-smtp-email": {
+      "version": "0.0.2",
+      "installedAt": 1770468570004
+    },
+    "agent-mail": {
+      "version": "1.0.0",
+      "installedAt": 1770468571795
+    },
+    "phoenixclaw-ledger": {
+      "version": "0.0.2",
+      "installedAt": 1770468586812
+    },
+    "treeline-money": {
+      "version": "26.2.605",
+      "installedAt": 1770468588715
+    },
+    "stock-info-explorer": {
+      "version": "1.2.10",
+      "installedAt": 1770468590356
+    },
+    "clawvault": {
+      "version": "1.5.1",
+      "installedAt": 1770468605236
+    },
+    "agentmemory": {
+      "version": "1.3.0",
+      "installedAt": 1770468606769
+    },
+    "chaos-mind": {
+      "version": "0.1.3",
+      "installedAt": 1770468609189
+    },
+    "backup-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770468611002
+    },
+    "prompt-learning-assistant": {
+      "version": "1.0.0",
+      "installedAt": 1770468644127
+    },
+    "compound-calc": {
+      "version": "1.0.1",
+      "installedAt": 1770468645903
+    },
+    "ai-compound": {
+      "version": "1.0.1",
+      "installedAt": 1770468647418
+    },
+    "reflect-learn": {
+      "version": "2.0.0",
+      "installedAt": 1770468649347
+    },
+    "n8n-workflow-automation": {
+      "version": "1.0.0",
+      "installedAt": 1770468658131
+    },
+    "inkedin-automation-that-really-works": {
+      "version": "1.0.1",
+      "installedAt": 1770468660826
+    },
+    "opencode-controller": {
+      "version": "1.0.0",
+      "installedAt": 1770468675385
+    },
+    "emergence-codex-openclaw": {
+      "version": "1.0.1",
+      "installedAt": 1770468676978
+    },
+    "open-ralph": {
+      "version": "1.0.0",
+      "installedAt": 1770468678460
+    },
+    "sfsymbol-generator": {
+      "version": "1.0.0",
+      "installedAt": 1770468680230
+    },
+    "codebuddy-code": {
+      "version": "1.0.1",
+      "installedAt": 1770468681439
+    },
+    "searxng-bangs": {
+      "version": "1.0.0",
+      "installedAt": 1770468698762
+    },
+    "file-search": {
+      "version": "1.0.0",
+      "installedAt": 1770468700529
+    },
+    "valyu-search": {
+      "version": "1.0.0",
+      "installedAt": 1770468702112
+    },
+    "searxng-local-search": {
+      "version": "0.1.0",
+      "installedAt": 1770468703759
+    },
+    "homeassistant-cli": {
+      "version": "1.0.0",
+      "installedAt": 1770468719156
+    },
+    "vapi-calls": {
+      "version": "1.0.0",
+      "installedAt": 1770468720710
+    },
+    "google-home-control": {
+      "version": "1.0.3",
+      "installedAt": 1770468722370
+    },
+    "adhd-assistant": {
+      "version": "1.0.0",
+      "installedAt": 1770468723867
+    },
+    "instantdb": {
+      "version": "1.0.0",
+      "installedAt": 1770468733160
+    },
+    "consciousness-framework": {
+      "version": "1.0.0",
+      "installedAt": 1770468735384
+    },
+    "continuity": {
+      "version": "1.0.1",
+      "installedAt": 1770468737087
+    },
+    "cctv-news-fetcher": {
+      "version": "1.0.0",
+      "installedAt": 1770468764595
+    },
+    "naver-news": {
+      "version": "1.0.2",
+      "installedAt": 1770468766649
+    },
+    "newsapi-search": {
+      "version": "1.0.0",
+      "installedAt": 1770468768355
+    },
+    "bbc-news": {
+      "version": "1.0.0",
+      "installedAt": 1770468770192
+    },
+    "hn": {
+      "version": "1.0.0",
+      "installedAt": 1770468771561
+    },
+    "trading212-api": {
+      "version": "1.0.0",
+      "installedAt": 1770468784931
+    },
+    "minara": {
+      "version": "1.0.0",
+      "installedAt": 1770468786378
+    },
+    "alpha": {
+      "version": "1.0.0",
+      "installedAt": 1770468788034
+    },
+    "marketing-strategy-pmm": {
+      "version": "1.0.0",
+      "installedAt": 1770468808358
+    },
+    "klaviyoapi": {
+      "version": "1.0.5",
+      "installedAt": 1770468811261
+    },
+    "landing-page-generator": {
+      "version": "1.0.0",
+      "installedAt": 1770468813144
+    },
+    "ad-creative-generator": {
+      "version": "1.0.0",
+      "installedAt": 1770468815668
+    },
+    "securityreview": {
+      "version": "1.0.0",
+      "installedAt": 1770468834063
+    },
+    "insecure-defaults": {
+      "version": "1.0.0",
+      "installedAt": 1770468836020
+    },
+    "secops-by-joes": {
+      "version": "1.0.0",
+      "installedAt": 1770468837768
+    },
+    "clawdbot-security-check": {
+      "version": "2.2.2",
+      "installedAt": 1770468839516
+    },
+    "information-security-manager-iso27001": {
+      "version": "1.0.0",
+      "installedAt": 1770468842040
+    },
+    "task": {
+      "version": "0.1.0",
+      "installedAt": 1770475987894
+    },
+    "javascript-sdk": {
+      "version": "0.1.0",
+      "installedAt": 1770475992601
+    },
+    "moltiumv2-lite": {
+      "version": "2.0.2",
+      "installedAt": 1770475996387
+    },
+    "hotel-finder-teneo": {
+      "version": "1.0.4",
+      "installedAt": 1770476031917
+    },
+    "basecamp-cli-mcp": {
+      "version": "2.0.0",
+      "installedAt": 1770476041063
+    },
+    "apollo": {
+      "version": "1.0.0",
+      "installedAt": 1770476508393
+    },
+    "aifs-space": {
+      "version": "1.0.0",
+      "installedAt": 1770476509985
+    },
+    "transcriptapi": {
+      "version": "1.3.2",
+      "installedAt": 1770476511353
+    },
+    "lifi-skill": {
+      "version": "2.0.0",
+      "installedAt": 1770476512956
+    },
+    "data-model-designer": {
+      "version": "1.0.0",
+      "installedAt": 1770476524469
+    },
+    "unit-price-database-manager": {
+      "version": "1.0.0",
+      "installedAt": 1770476525991
+    },
+    "cwicr-data-loader": {
+      "version": "1.0.0",
+      "installedAt": 1770476527548
+    },
+    "aisa-media-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770476539414
+    },
+    "bottube": {
+      "version": "0.4.0",
+      "installedAt": 1770476541150
+    },
+    "elevenlabs-stt": {
+      "version": "1.0.0",
+      "installedAt": 1770476560480
+    },
+    "audiopod": {
+      "version": "1.2.3",
+      "installedAt": 1770476562205
+    },
+    "ai-podcast-creation": {
+      "version": "0.1.0",
+      "installedAt": 1770476563826
+    },
+    "molt-agent": {
+      "version": "1.0.0",
+      "installedAt": 1770476576588
+    },
+    "agentpayy": {
+      "version": "1.0.1",
+      "installedAt": 1770476578435
+    },
+    "crypto-gold-monitor": {
+      "version": "1.2.1",
+      "installedAt": 1770476589760
+    },
+    "self-improving-agent-1-0-2": {
+      "version": "1.0.0",
+      "installedAt": 1770476600625
+    },
+    "exe-dev": {
+      "version": "1.0.0",
+      "installedAt": 1770478422789
+    },
+    "onboard-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770478424595
+    },
+    "onboarding-gen": {
+      "version": "1.0.1",
+      "installedAt": 1770478426482
+    },
+    "wrangler": {
+      "version": "1.1.0",
+      "installedAt": 1770478442534
+    },
+    "deploy-agent": {
+      "version": "1.1.0",
+      "installedAt": 1770478444187
+    },
+    "ct-accessibility-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1770478457066
+    },
+    "workflow-automation": {
+      "version": "1.0.0",
+      "installedAt": 1770478458775
+    },
+    "labor-productivity-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1770478470662
+    },
+    "productivity-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1770478472076
+    },
+    "rescuetime": {
+      "version": "1.0.0",
+      "installedAt": 1770478473394
+    },
+    "environmental-monitoring": {
+      "version": "1.0.0",
+      "installedAt": 1770478491311
+    },
+    "financial-market-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1770478503838
+    },
+    "agent-content-pipeline": {
+      "version": "0.2.3",
+      "installedAt": 1770478530871
+    },
+    "brave-search": {
+      "version": "1.0.1",
+      "installedAt": 1770478532265
+    },
+    "feishu-docx-powerwrite": {
+      "version": "0.1.0",
+      "installedAt": 1770478550391
+    },
+    "humanize": {
+      "version": "1.0.0",
+      "installedAt": 1770478552019
+    },
+    "moltresearch": {
+      "version": "1.1.0",
+      "installedAt": 1770478564347
+    },
+    "lore": {
+      "version": "1.0.0",
+      "installedAt": 1770478565952
+    },
+    "ctxly-chat": {
+      "version": "1.0.1",
+      "installedAt": 1770478585001
+    },
+    "chatr": {
+      "version": "1.0.0",
+      "installedAt": 1770478586437
+    },
+    "chat-ui": {
+      "version": "0.1.0",
+      "installedAt": 1770478588005
+    },
+    "pinchsocial": {
+      "version": "2.0.0",
+      "installedAt": 1770478599468
+    },
+    "supabase-rls-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770478618000
+    },
+    "causal-inference": {
+      "version": "0.2.0",
+      "installedAt": 1770478619965
+    },
+    "ml-model-builder": {
+      "version": "1.0.0",
+      "installedAt": 1770478631506
+    },
+    "modelready": {
+      "version": "1.0.0",
+      "installedAt": 1770478633087
+    },
+    "smart-model-switching": {
+      "version": "1.0.0",
+      "installedAt": 1770478634890
+    },
+    "late-api": {
+      "version": "0.1.0",
+      "installedAt": 1770478652311
+    },
+    "atlassian-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1770478653777
+    },
+    "ibkr-trader": {
+      "version": "1.0.0",
+      "installedAt": 1770478655359
+    },
+    "browser-pc": {
+      "version": "1.0.0",
+      "installedAt": 1770478667420
+    },
+    "git-notes-memory": {
+      "version": "1.0.0",
+      "installedAt": 1770478684322
+    },
+    "flyio-cli": {
+      "version": "1.0.1",
+      "installedAt": 1770478686047
+    },
+    "voice-wake-say": {
+      "version": "1.0.1",
+      "installedAt": 1770478697712
+    },
+    "jarvis-voice": {
+      "version": "1.0.0",
+      "installedAt": 1770478699125
+    },
+    "vocal-chat": {
+      "version": "1.0.0",
+      "installedAt": 1770478700676
+    },
+    "pptx-creator": {
+      "version": "1.0.0",
+      "installedAt": 1770478718695
+    },
+    "gamma-presentations": {
+      "version": "1.0.0",
+      "installedAt": 1770478720324
+    },
+    "planning-with-files": {
+      "version": "1.2.0",
+      "installedAt": 1770478732730
+    },
+    "notesctl-skill-for-openclaw": {
+      "version": "0.1.0",
+      "installedAt": 1770478757540
+    },
+    "flomo-notes": {
+      "version": "0.1.0",
+      "installedAt": 1770478759421
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.2",
+      "installedAt": 1770478784874
+    },
+    "memory-hygiene": {
+      "version": "1.0.0",
+      "installedAt": 1770478786538
+    },
+    "engram-memory": {
+      "version": "0.2.0",
+      "installedAt": 1770478788196
+    },
+    "codex-conductor": {
+      "version": "1.0.0",
+      "installedAt": 1770478801779
+    },
+    "codex-sub-agents": {
+      "version": "1.0.0",
+      "installedAt": 1770478803295
+    },
+    "test-master": {
+      "version": "0.1.0",
+      "installedAt": 1770478822983
+    },
+    "vibetesting": {
+      "version": "1.0.1",
+      "installedAt": 1770478824846
+    },
+    "backtest-expert": {
+      "version": "0.1.0",
+      "installedAt": 1770478826656
+    },
+    "dokploy": {
+      "version": "1.0.0",
+      "installedAt": 1770478839001
+    },
+    "azd-deployment": {
+      "version": "0.1.0",
+      "installedAt": 1770478840963
+    },
+    "openclaw-deploy": {
+      "version": "1.0.2",
+      "installedAt": 1770478843073
+    },
+    "as-built-documentation": {
+      "version": "1.0.0",
+      "installedAt": 1770478857017
+    },
+    "as-built-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1770478858647
+    },
+    "prompts-workflow": {
+      "version": "1.0.0",
+      "installedAt": 1770478871214
+    },
+    "lobster-jobs": {
+      "version": "1.0.0",
+      "installedAt": 1770478872742
+    },
+    "agenticflow-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770478874782
+    },
+    "big-data-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1770478891316
+    },
+    "a-stock-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1770478892663
+    },
+    "sector-analyst": {
+      "version": "0.1.0",
+      "installedAt": 1770478894350
+    },
+    "computer-use": {
+      "version": "1.2.0",
+      "installedAt": 1770478924889
+    },
+    "markdown-converter": {
+      "version": "1.0.0",
+      "installedAt": 1770478952611
+    },
+    "rest-to-graphql": {
+      "version": "1.0.1",
+      "installedAt": 1770478968177
+    },
+    "css-to-tailwind": {
+      "version": "1.0.0",
+      "installedAt": 1770478969942
+    },
+    "nvidia-image-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770478991130
+    },
+    "image-router": {
+      "version": "0.1.0",
+      "installedAt": 1770478992778
+    },
+    "bria-ai-api": {
+      "version": "0.0.1",
+      "installedAt": 1770478994822
+    },
+    "agent-arcade": {
+      "version": "1.0.1",
+      "installedAt": 1770481106151
+    },
+    "moltrade": {
+      "version": "1.0.2",
+      "installedAt": 1770481156409
+    },
+    "simul8or-trader": {
+      "version": "1.0.3",
+      "installedAt": 1770481158147
+    },
+    "predictme": {
+      "version": "1.2.0",
+      "installedAt": 1770481160759
+    },
+    "newshelp": {
+      "version": "1.0.0",
+      "installedAt": 1770481173818
+    },
+    "leviathan-news": {
+      "version": "1.0.1",
+      "installedAt": 1770481175614
+    },
+    "adcp-advertising": {
+      "version": "1.0.1",
+      "installedAt": 1770481204632
+    },
+    "marketing-demand-acquisition": {
+      "version": "1.0.0",
+      "installedAt": 1770481206673
+    },
+    "cwicr-productivity-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1770481230718
+    },
+    "cwicr-crew-optimizer": {
+      "version": "1.0.0",
+      "installedAt": 1770481232359
+    },
+    "insta-cog": {
+      "version": "1.0.1",
+      "installedAt": 1770481272758
+    },
+    "continuous-learning": {
+      "version": "1.0.0",
+      "installedAt": 1770481298843
+    },
+    "price-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1770481311020
+    },
+    "reddit-insights": {
+      "version": "1.2.0",
+      "installedAt": 1770481328051
+    },
+    "pptx-construction": {
+      "version": "1.0.0",
+      "installedAt": 1770481361626
+    },
+    "progressive-memory": {
+      "version": "0.1.0",
+      "installedAt": 1770481373306
+    },
+    "perf-profiler": {
+      "version": "1.0.0",
+      "installedAt": 1770481394001
+    },
+    "claims-documentation": {
+      "version": "1.0.0",
+      "installedAt": 1770481427059
+    },
+    "breadth-chart-analyst": {
+      "version": "0.1.1",
+      "installedAt": 1770481439981
+    },
+    "voice-ui": {
+      "version": "1.0.0",
+      "installedAt": 1770481484111
+    },
+    "reddit-job-posting-templates": {
+      "version": "1.0.0",
+      "installedAt": 1770481504530
+    },
+    "ai-video-gen-tools": {
+      "version": "1.0.0",
+      "installedAt": 1770481536833
+    },
+    "meow-finder": {
+      "version": "1.0.0",
+      "installedAt": 1770481718395
+    },
+    "openbroker": {
+      "version": "1.0.3",
+      "installedAt": 1770481722725
+    },
+    "octolens": {
+      "version": "1.0.0",
+      "installedAt": 1770481738322
+    },
+    "secret-manager": {
+      "version": "1.0.0",
+      "installedAt": 1770481739674
+    },
+    "agent-mbti": {
+      "version": "0.1.0",
+      "installedAt": 1770481792044
+    },
+    "mbti": {
+      "version": "1.0.0",
+      "installedAt": 1770481793712
+    },
+    "newsletter-creation-curation": {
+      "version": "1.0.0",
+      "installedAt": 1770481818199
+    },
+    "zoom-meeting-assistance-with-rtms-unofficial-community-skill": {
+      "version": "0.1.3",
+      "installedAt": 1770481840228
+    },
+    "test-google-chat": {
+      "version": "1.0.0",
+      "installedAt": 1770481844318
+    },
+    "agentvibes-openclaw-skill": {
+      "version": "3.3.0",
+      "installedAt": 1770481861807
+    },
+    "whatsapp-voice-chat-integration-open-source": {
+      "version": "1.0.0",
+      "installedAt": 1770481864072
+    },
+    "base-trader": {
+      "version": "1.1.1",
+      "installedAt": 1770481877430
+    },
+    "upbit-trading-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770481879254
+    },
+    "uniswap-monitor-teneo": {
+      "version": "1.0.6",
+      "installedAt": 1770481905328
+    },
+    "virus-monitor": {
+      "version": "0.1.1",
+      "installedAt": 1770481906922
+    },
+    "clawbrain": {
+      "version": "0.1.3",
+      "installedAt": 1770481928417
+    },
+    "mia-twitter-stealth": {
+      "version": "1.0.0",
+      "installedAt": 1770481951054
+    },
+    "moltbot-ha": {
+      "version": "0.1.1",
+      "installedAt": 1770481953046
+    },
+    "schema-validation": {
+      "version": "1.0.0",
+      "installedAt": 1770481978989
+    },
+    "data-lineage-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1770481980827
+    },
+    "data-anomaly-detector": {
+      "version": "1.0.0",
+      "installedAt": 1770481983014
+    },
+    "trmnl": {
+      "version": "1.0.2",
+      "installedAt": 1770481997017
+    },
+    "content-ideas-generator": {
+      "version": "1.0.0",
+      "installedAt": 1770481998638
+    },
+    "memory-system-v2": {
+      "version": "1.0.0",
+      "installedAt": 1770482017587
+    },
+    "memory-manager": {
+      "version": "1.0.0",
+      "installedAt": 1770482019740
+    },
+    "forge": {
+      "version": "1.0.0",
+      "installedAt": 1770482036700
+    },
+    "senior-qa": {
+      "version": "1.0.0",
+      "installedAt": 1770482039237
+    },
+    "warranty-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1770482064867
+    },
+    "transcript-to-content": {
+      "version": "1.0.0",
+      "installedAt": 1770482066651
+    },
+    "social-media-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1770482080277
+    },
+    "data-evolution-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1770482082298
+    },
+    "coder-workspaces": {
+      "version": "1.5.5",
+      "installedAt": 1770482135346
+    },
+    "clean-code": {
+      "version": "1.0.0",
+      "installedAt": 1770482138117
+    },
+    "researchvault": {
+      "version": "2.5.2",
+      "installedAt": 1770482168005
+    },
+    "moltuniversity": {
+      "version": "1.0.0",
+      "installedAt": 1770482169810
+    },
+    "starpulse": {
+      "version": "0.2.0",
+      "installedAt": 1770482191319
+    },
+    "voicenotes": {
+      "version": "1.0.0",
+      "installedAt": 1770482204470
+    },
+    "cloudflare-r2": {
+      "version": "1.0.0",
+      "installedAt": 1770482248276
+    },
+    "swagger-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770483377025
+    },
+    "trading-coach": {
+      "version": "1.0.0",
+      "installedAt": 1770483408534
+    },
+    "network-spirituality": {
+      "version": "1.0.0",
+      "installedAt": 1770483431990
+    },
+    "linkedin-monitor": {
+      "version": "1.1.0",
+      "installedAt": 1770483443495
+    },
+    "technical-analyst": {
+      "version": "0.1.0",
+      "installedAt": 1770483465217
+    },
+    "slidespeak": {
+      "version": "1.0.0",
+      "installedAt": 1770483477683
+    },
+    "memory-setup": {
+      "version": "1.0.0",
+      "installedAt": 1770483488438
+    },
+    "preflight-checks": {
+      "version": "1.0.0",
+      "installedAt": 1770483501667
+    },
+    "streme-launcher": {
+      "version": "1.0.0",
+      "installedAt": 1770483513341
+    },
+    "payment-application-generator": {
+      "version": "1.0.0",
+      "installedAt": 1770483524751
+    },
+    "the-ultimate-guide-to-writing-effective-ai-prompts-65c2a3a3": {
+      "version": "1.0.0",
+      "installedAt": 1770483536694
+    },
+    "widgets-ui": {
+      "version": "0.1.0",
+      "installedAt": 1770483548688
+    },
+    "longevity-assistant": {
+      "version": "1.0.0",
+      "installedAt": 1770483726978
+    },
+    "ai-meeting-notes": {
+      "version": "1.0.3",
+      "installedAt": 1770483805781
+    },
+    "calctl": {
+      "version": "1.0.0",
+      "installedAt": 1770483818108
+    },
+    "family-todo-management": {
+      "version": "1.0.0",
+      "installedAt": 1770483829536
+    },
+    "labor-rate": {
+      "version": "1.0.0",
+      "installedAt": 1770483840810
+    },
+    "research-paper-writer": {
+      "version": "0.1.0",
+      "installedAt": 1770483852038
+    },
+    "terraform-gen": {
+      "version": "1.0.1",
+      "installedAt": 1770483879257
+    },
+    "k8s-gen": {
+      "version": "1.0.0",
+      "installedAt": 1770483891675
+    },
+    "podcast-generation": {
+      "version": "0.1.0",
+      "installedAt": 1770483918256
+    },
+    "chaterimo-openclaw-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770483931673
+    },
+    "php-full-stack-developer": {
+      "version": "0.1.0",
+      "installedAt": 1770483958193
+    },
+    "god-mode": {
+      "version": "0.1.0",
+      "installedAt": 1770483974274
+    },
+    "sequence-cli": {
+      "version": "1.0.0",
+      "installedAt": 1770483999610
+    },
+    "shopping-expert": {
+      "version": "1.1.0",
+      "installedAt": 1770484011325
+    },
+    "calorie-counter": {
+      "version": "1.0.0",
+      "installedAt": 1770484022538
+    },
+    "travel-agent": {
+      "version": "1.0.8",
+      "installedAt": 1770484040826
+    },
+    "local-booking": {
+      "version": "1.0.0",
+      "installedAt": 1770484055388
+    },
+    "runstr-fitness": {
+      "version": "1.0.0",
+      "installedAt": 1770484069603
+    },
+    "news-aggregator-skill-2": {
+      "version": "0.1.0",
+      "installedAt": 1770484098705
+    },
+    "apple-photos": {
+      "version": "1.0.0",
+      "installedAt": 1770484111872
+    },
+    "pdf-construction": {
+      "version": "1.0.0",
+      "installedAt": 1770484137067
+    },
+    "mac-tts": {
+      "version": "1.0.0",
+      "installedAt": 1770484183846
+    },
+    "transcribee": {
+      "version": "1.2.1",
+      "installedAt": 1770484197777
+    },
+    "japanese-translation-and-tutor": {
+      "version": "1.0.0",
+      "installedAt": 1770484211080
+    },
+    "remindme": {
+      "version": "1.2.1",
+      "installedAt": 1770484230764
+    },
+    "cron-scheduling": {
+      "version": "1.0.0",
+      "installedAt": 1770484242086
+    },
+    "twenty-crm": {
+      "version": "1.0.0",
+      "installedAt": 1770484302927
+    },
+    "async-task": {
+      "version": "0.1.0",
+      "installedAt": 1770484349327
+    },
+    "ml-model-retrainer": {
+      "version": "1.0.0",
+      "installedAt": 1770484375053
+    },
+    "claude-code-wingman": {
+      "version": "0.3.0",
+      "installedAt": 1770484392118
+    },
+    "agent-browser-tekken": {
+      "version": "0.8.6",
+      "installedAt": 1770484431107
+    },
+    "stash-namer": {
+      "version": "1.0.0",
+      "installedAt": 1770484445091
+    },
+    "openai-image-gen": {
+      "version": "1.0.1",
+      "installedAt": 1770484456972
+    },
+    "gemini-deep-research": {
+      "version": "1.0.0",
+      "installedAt": 1770484475838
+    },
+    "groq-orpheus-tts": {
+      "version": "1.1.0",
+      "installedAt": 1770484493180
+    },
+    "local-places": {
+      "version": "1.0.0",
+      "installedAt": 1770484511644
+    },
+    "homey": {
+      "version": "1.1.2",
+      "installedAt": 1770484524596
+    },
+    "xiaomi-home": {
+      "version": "1.2.1",
+      "installedAt": 1770484536888
+    },
+    "unraid": {
+      "version": "1.0.1",
+      "installedAt": 1770484580776
+    },
+    "portainer": {
+      "version": "1.0.0",
+      "installedAt": 1770484609205
+    },
+    "pihole": {
+      "version": "2.0.1",
+      "installedAt": 1770484633924
+    },
+    "duplicati-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770484660903
+    },
+    "cross-device-sync": {
+      "version": "1.0.0",
+      "installedAt": 1770484673127
+    },
+    "amap": {
+      "version": "1.0.0",
+      "installedAt": 1770484685326
+    },
+    "feishu-bridge": {
+      "version": "1.0.0",
+      "installedAt": 1770484712395
+    },
+    "ssh-tunnel": {
+      "version": "1.0.0",
+      "installedAt": 1770484725890
+    },
+    "mcp-ssh-manager": {
+      "version": "0.1.1",
+      "installedAt": 1770484738500
+    },
+    "vpn-rotate-skill": {
+      "version": "0.1.0",
+      "installedAt": 1770484751655
+    },
+    "relayplane": {
+      "version": "0.1.11",
+      "installedAt": 1770484764081
+    },
+    "sec-filing-watcher": {
+      "version": "1.0.0",
+      "installedAt": 1770484800301
+    }
+  }
+}

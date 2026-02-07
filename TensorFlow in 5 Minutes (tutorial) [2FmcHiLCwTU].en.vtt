@@ -1,0 +1,360 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.310 --> 00:00:08.670
+Hello world it's Siraj the most popular
+machine learning library in the world
+
+00:00:08.670 --> 00:00:11.940
+right now is Google's tensorflow
+we're going to use it to build a
+
+00:00:11.940 --> 00:00:16.230
+classifier that can look at an image of
+a handwritten digit and classify what
+
+00:00:16.230 --> 00:00:20.670
+digit it is in under 40 lines of code
+basic is she pretty much every single
+
+00:00:20.670 --> 00:00:24.660
+Google product uses machine learning in
+some way whether it's image search image
+
+00:00:24.660 --> 00:00:29.250
+captioning translation recommendations
+Google needs machine learning to take
+
+00:00:29.250 --> 00:00:33.690
+advantage of their godlike data sets to
+give users the dopest experience there
+
+00:00:33.690 --> 00:00:37.020
+are three different crowds that use
+machine learning researchers data
+
+00:00:37.020 --> 00:00:40.590
+scientists and wizards
+I mean developers ideally they can all
+
+00:00:40.590 --> 00:00:43.710
+use the same tool set to collaborate
+with each other and improve their
+
+00:00:43.710 --> 00:00:47.219
+efficiency tensorflow was a solution
+they created to help solve this problem
+
+00:00:47.219 --> 00:00:50.850
+Google doesn't just have a lot of data
+they have the world's largest computer
+
+00:00:50.850 --> 00:00:55.530
+so the library was built to scale it was
+made to run on multiple CPUs or GPUs and
+
+00:00:55.530 --> 00:00:59.760
+even mobile operating systems and it has
+several wrappers in several languages my
+
+00:00:59.760 --> 00:01:03.750
+favorite one is Python objective-c you
+broke my heart we have to install
+
+00:01:03.750 --> 00:01:08.310
+tensorflow first we're going to use pip
+the Python package manager to install it
+
+00:01:08.310 --> 00:01:11.760
+once we have pip we can create an
+environment variable that points to the
+
+00:01:11.760 --> 00:01:15.330
+download URL for tensorflow
+once we set the environment variable we
+
+00:01:15.330 --> 00:01:19.259
+can download tensorflow via pip install
+with the upgrade flag in the name of our
+
+00:01:19.259 --> 00:01:23.009
+environment variable dope now that we
+have our dependencies installed let's
+
+00:01:23.009 --> 00:01:26.790
+get to the code we'll start off by
+importing our handwritten digit data set
+
+00:01:26.790 --> 00:01:30.900
+the input data class is a standard
+Python class I've download the data set
+
+00:01:30.900 --> 00:01:34.950
+splits it into training and testing data
+and formats it for our use later on
+
+00:01:34.950 --> 00:01:38.460
+and of course we'll import tensorflow
+now we can set our hyper parameters or
+
+00:01:38.460 --> 00:01:42.329
+tuning knobs for our model the first one
+is the learning rate which defines how
+
+00:01:42.329 --> 00:01:46.290
+fast we want to update our weights if
+the learning rate is too big our model
+
+00:01:46.290 --> 00:01:49.890
+might skip the optimal solution if it's
+too small we might need too many
+
+00:01:49.890 --> 00:01:54.420
+iterations to converge on the best
+results so we'll set it to 0.01 because
+
+00:01:54.420 --> 00:01:57.930
+it's a known decent learning rate for
+this problem definitely faster than
+
+00:01:57.930 --> 00:02:01.740
+little wayne's now we want to create our
+model in tensorflow a model is
+
+00:02:01.740 --> 00:02:05.430
+represented as a data flow graph the
+graph contains a set of nodes called
+
+00:02:05.430 --> 00:02:08.789
+operations these are units of
+computation they can be as simple as
+
+00:02:08.789 --> 00:02:12.569
+addition or multiplication and can be
+complicated at some multivariate
+
+00:02:12.569 --> 00:02:17.130
+equation each operation takes in as
+input a tensor and outputs a tensor as
+
+00:02:17.130 --> 00:02:20.849
+well a tensor is how data is represented
+in tensor flow they are
+
+00:02:20.849 --> 00:02:24.900
+multi-dimensional arrays of numbers and
+they flow between operations hence the
+
+00:02:24.900 --> 00:02:28.560
+name tensor flow it all makes sense
+we'll start by building our model by
+
+00:02:28.560 --> 00:02:32.340
+creating two operations both our
+placeholder operations a placeholder is
+
+00:02:32.340 --> 00:02:35.700
+just a variable that we will assign data
+to at a later date it's never
+
+00:02:35.700 --> 00:02:39.540
+initialized and contains no data well
+define the type and shape of our data as
+
+00:02:39.540 --> 00:02:43.709
+the parameters the input images X will
+be represented by a 2d tensor of numbers
+
+00:02:43.709 --> 00:02:48.510
+784 is a dimensionality of a single
+flattened MN IST image finding an image
+
+00:02:48.510 --> 00:02:52.739
+means converting a 2d array to a 1d
+array by unstacking the rows in lining
+
+00:02:52.739 --> 00:02:56.459
+them up this is more efficient
+formatting the output class is why will
+
+00:02:56.459 --> 00:03:00.299
+consist of a 2d tensor as well where
+each row is a one hot 10 dimensional
+
+00:03:00.299 --> 00:03:04.620
+vector showing which digit class the
+corresponding MN is T image belongs to
+
+00:03:04.620 --> 00:03:08.430
+then we'll define our weights W and
+biases B for our model the weights are
+
+00:03:08.430 --> 00:03:11.760
+the probabilities that affect how data
+flows in the graph and they will be
+
+00:03:11.760 --> 00:03:15.720
+updated continuously during training so
+that our results get closer and closer
+
+00:03:15.720 --> 00:03:19.470
+to the right solution the bias lets a
+shift our regression line to better fit
+
+00:03:19.470 --> 00:03:23.070
+the data well then create a named scope
+scopes help us organize nodes in the
+
+00:03:23.070 --> 00:03:26.670
+graph visualizer called tensor board
+which will view at the end will create
+
+00:03:26.670 --> 00:03:30.780
+three scopes in the first scope we'll
+implement our model logistic regression
+
+00:03:30.780 --> 00:03:35.370
+by matrix multiplying the input images X
+by the weight matrix W and adding the
+
+00:03:35.370 --> 00:03:38.850
+bias B well then create summary
+operations to help us later visualize
+
+00:03:38.850 --> 00:03:42.359
+the distribution of our weights and
+biases in the second scope will create
+
+00:03:42.359 --> 00:03:45.630
+our cost function the cost function
+helps us minimize our error during
+
+00:03:45.630 --> 00:03:49.530
+training and we'll use the popular
+cross-entropy function as it then we'll
+
+00:03:49.530 --> 00:03:52.890
+create a scalar summary to monitor it
+during training so we can visualize it
+
+00:03:52.890 --> 00:03:56.940
+later our last scope is called Train and
+it will create our optimization function
+
+00:03:56.940 --> 00:04:00.420
+that makes our model improve during
+training we'll use the popular gradient
+
+00:04:00.420 --> 00:04:03.690
+descent algorithm which takes our
+learning rate as a parameter for pacing
+
+00:04:03.690 --> 00:04:07.650
+and our cost function as a parameter to
+help minimize the error now that we have
+
+00:04:07.650 --> 00:04:11.340
+our graph built will initialize all of
+our variables then we'll merge all of
+
+00:04:11.340 --> 00:04:15.030
+our summaries into a single operator
+because we are extremely lazy now we're
+
+00:04:15.030 --> 00:04:18.150
+ready to launch our graph by
+initializing a session which lets us
+
+00:04:18.150 --> 00:04:21.930
+execute our data flow graph well then
+set our summary write or folder location
+
+00:04:21.930 --> 00:04:25.740
+which will later load data
+to visualize in tensor board training
+
+00:04:25.740 --> 00:04:29.280
+time let's set our for loop for our
+specified number of iterations and
+
+00:04:29.280 --> 00:04:32.850
+initialize our average cost which will
+print out every so often to make sure
+
+00:04:32.850 --> 00:04:36.539
+our model is improving during training
+we'll compute our batch size and start
+
+00:04:36.539 --> 00:04:39.960
+training over each example in our
+training data next we'll fit our model
+
+00:04:39.960 --> 00:04:43.500
+using the batch data in the gradient
+descent algorithm for back propagation
+
+00:04:43.500 --> 00:04:47.580
+we'll compute the average loss and write
+logs for each iteration via the summary
+
+00:04:47.580 --> 00:04:51.000
+writer for each display step we'll
+display error logs to terminal that's it
+
+00:04:51.000 --> 00:04:54.780
+for training we can then test the model
+by comparing our model values to our
+
+00:04:54.780 --> 00:04:57.990
+output values will calculate the
+accuracy and print it out for test data
+
+00:04:57.990 --> 00:05:01.080
+the accuracy gets better with training
+and once we've trained and tested our
+
+00:05:01.080 --> 00:05:05.070
+model it'll be able to classify novel MN
+is T digits pretty well we can then
+
+00:05:05.070 --> 00:05:09.599
+visualize our graph in tensor board yo
+pretty colors and stuff in our browser
+
+00:05:09.599 --> 00:05:13.289
+we'll be able to view the output of our
+cost function over time under the events
+
+00:05:13.289 --> 00:05:16.889
+tab under histograms we'll be able to
+see the variance in our biases and
+
+00:05:16.889 --> 00:05:20.669
+weights over time under graphs we can
+view the actual graph we created as well
+
+00:05:20.669 --> 00:05:24.240
+as the variables for weights and bias we
+can see the flow of tensors in the form
+
+00:05:24.240 --> 00:05:27.690
+of edges connecting our nodes or
+operations we can see each of the three
+
+00:05:27.690 --> 00:05:31.199
+scopes we named in our code earlier and
+by double clicking on each we can see a
+
+00:05:31.199 --> 00:05:35.070
+more detailed view of how tensors are
+flowing through each lots of cool links
+
+00:05:35.070 --> 00:05:37.530
+in the description and please hit that
+subscribe button if you want to see more
+
+00:05:37.530 --> 00:05:43.430
+ml videos for now I've got to go doc as
+my environment so thanks for watching
+

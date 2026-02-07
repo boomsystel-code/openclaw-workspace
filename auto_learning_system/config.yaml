@@ -1,0 +1,63 @@
+# 自动化学习系统配置文件
+# Auto Learning System Config
+
+# 搜索关键词配置
+search_keywords:
+  - "artificial intelligence 2025"
+  - "machine learning breakthroughs"
+  - "LLM large language model"
+  - "AI research papers"
+  - "Python programming"
+  - "cloud computing"
+  - "devops automation"
+  - "web development"
+
+# 搜索源配置
+search_sources:
+  - name: "tech"
+    engine: "brave"
+    category: "technology"
+  - name: "ai"
+    engine: "brave"
+    category: "ai"
+
+# 知识库分类
+categories:
+  - id: "ai_ml"
+    name: "人工智能与机器学习"
+    keywords: ["AI", "ML", "deep learning", "neural network", "transformer"]
+  - id: "programming"
+    name: "编程开发"
+    keywords: ["Python", "JavaScript", "Go", "Rust", "API", "framework"]
+  - id: "cloud_devops"
+    name: "云原生与DevOps"
+    keywords: ["kubernetes", "docker", "CI/CD", "cloud", "terraform"]
+  - id: "general"
+    name: "综合技术"
+    keywords: []
+
+# 学习计划
+schedule:
+  # 执行时间 (每天)
+  daily_time: "08:00"
+  # 每周学习报告
+  weekly_report_day: "Monday"
+  weekly_report_time: "09:00"
+
+# 存储配置
+storage:
+  knowledge_base_path: "~/.openclaw/workspace/auto_learning_system/knowledge_base"
+  reports_path: "~/.openclaw/workspace/auto_learning_system/reports"
+  logs_path: "~/.openclaw/workspace/auto_learning_system/logs"
+
+# 摘要生成配置
+summarization:
+  max_content_length: 2000
+  max_summary_length: 300
+  important_keywords_count: 5
+
+# 学习报告配置
+report:
+  max_daily_items: 20
+  include_sources: true
+  include_tags: true
