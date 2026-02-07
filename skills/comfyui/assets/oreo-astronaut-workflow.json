@@ -1,0 +1,88 @@
+{
+  "3": {
+    "class_type": "CheckpointLoaderSimple",
+    "inputs": {
+      "ckpt_name": "v1-5-pruned-emaonly.ckpt"
+    },
+    "_meta": {
+      "title": "Load Checkpoint"
+    }
+  },
+  "4": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "oreo.jpg"
+    },
+    "_meta": {
+      "title": "Load Image (Oreo)"
+    }
+  },
+  "5": {
+    "class_type": "VAEEncode",
+    "inputs": {
+      "pixels": ["4", 0],
+      "vae": ["3", 2]
+    },
+    "_meta": {
+      "title": "VAE Encode (Img2Img)"
+    }
+  },
+  "6": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "text": "A border collie dog wearing a space astronaut helmet, floating in space with stars and nebula background, hyperrealistic, cinematic lighting, 8K quality, the dog looks cute and brave",
+      "clip": ["3", 1]
+    },
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "7": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "text": "low quality, worst quality, blurry, deformed, bad anatomy, extra limbs, distorted",
+      "clip": ["3", 1]
+    },
+    "_meta": {
+      "title": "CLIP Text Encode (Negative)"
+    }
+  },
+  "8": {
+    "class_type": "KSampler",
+    "inputs": {
+      "seed": 12345678,
+      "steps": 25,
+      "cfg": 7,
+      "sampler_name": "euler",
+      "scheduler": "normal",
+      "denoise": 0.6,
+      "model": ["3", 0],
+      "positive": ["6", 0],
+      "negative": ["7", 0],
+      "latent_image": ["5", 0]
+    },
+    "_meta": {
+      "title": "KSampler (Img2Img)"
+    }
+  },
+  "9": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": ["8", 0],
+      "vae": ["3", 2]
+    },
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "10": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "oreo-astronaut",
+      "images": ["9", 0]
+    },
+    "_meta": {
+      "title": "Save Image"
+    }
+  }
+}
