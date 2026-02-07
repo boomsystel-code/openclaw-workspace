@@ -1,0 +1,63 @@
+{
+  "4": {
+    "class_type": "KSampler",
+    "inputs": {
+      "cfg": 8,
+      "denoise": 1,
+      "model": ["6", 0],
+      "negative": ["9", 0],
+      "positive": ["11", 0],
+      "sampler_name": "euler",
+      "scheduler": "normal",
+      "seed": 123456789,
+      "steps": 30
+    }
+  },
+  "6": {
+    "class_type": "CheckpointLoaderSimple",
+    "inputs": {
+      "ckpt_name": "v1-5-pruned-emaonly.ckpt"
+    }
+  },
+  "9": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": ["6", 1],
+      "text": "bad quality, worst quality, distorted, ugly, deformed, blurry, watermark, text"
+    }
+  },
+  "11": {
+    "class_type": "CLIPTextEncode",
+    "inputs": {
+      "clip": ["6", 1],
+      "text": "A cute Border Collie dog with fluffy white and black fur running on a beautiful green meadow. The intelligent dog is using a mouse trap with yellow cheese to catch a small pika. Blue sky with white clouds, majestic mountains in background, lush green grass, sunny day. The Border Collie looks focused and strategic, professional photography, 4K, highly detailed, adorable animal photography"
+    }
+  },
+  "12": {
+    "class_type": "VAEEncode",
+    "inputs": {
+      "pixels": ["13", 0],
+      "vae": ["6", 2]
+    }
+  },
+  "13": {
+    "class_type": "LoadImage",
+    "inputs": {
+      "image": "草原边牧.png"
+    }
+  },
+  "14": {
+    "class_type": "VAEDecode",
+    "inputs": {
+      "samples": ["4", 0],
+      "vae": ["6", 2]
+    }
+  },
+  "15": {
+    "class_type": "SaveImage",
+    "inputs": {
+      "filename_prefix": "border_collie",
+      "images": ["14", 0]
+    }
+  }
+}
